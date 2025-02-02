@@ -1,0 +1,14 @@
+ [97m <gradient name="purple">Attack Details</gradient> [97m
+
+  [38;2;128;128;128m│ [38;2;108;61;255mTarget[97m:          <<$attack.Target>>
+  [38;2;128;128;128m│ [38;2;108;61;255mPort[97m:            <<$attack.Port>>
+  [38;2;128;128;128m│ [38;2;108;61;255mTime[97m:            <<$attack.Time>>
+  [38;2;128;128;128m│ [38;2;108;61;255mMethod[97m:          <<$attack.Method>>
+
+  [38;2;128;128;128m│ [38;2;108;61;255mCountry[97m:         <<$attack.Country>>
+  [38;2;128;128;128m│ [38;2;108;61;255mOrg[97m:             <<$attack.Org>>
+  [38;2;128;128;128m│ [38;2;108;61;255mRegion[97m:          <<$attack.Region>>
+
+  [38;2;128;128;128m│ [38;2;108;61;255mDate[97m:            <<$attack.Date>>
+  [38;2;128;128;128m│ [38;2;108;61;255mSent by[97m:         @<<$user.Username>>
+

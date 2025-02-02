@@ -1,0 +1,22 @@
+<<$clear>>
+ [97m <gradient name="purple">Methods list</gradient>
+
+ [38;2;108;61;255mLayer 4[0m
+   [38;2;108;61;255m• [37;1mDNS[38;2;108;61;255m: [0m[37;3mUDP flood mixed with amps.                              [37;1m(VIP: [38;2;255;0;0mFALSE[37;1m)
+   [38;2;108;61;255m• [37;1mSOCKET[38;2;108;61;255m: [0m[37;3mTCP socket flood, high cps.                          [37;1m(VIP: [38;2;255;0;0mFALSE[37;1m)
+   [38;2;108;61;255m• [37;1mOVH[38;2;108;61;255m: [0m[37;3mUDP flood.                                              [37;1m(VIP: [38;2;255;0;0mFALSE[37;1m)
+   [38;2;108;61;255m• [37;1mUDP[38;2;108;61;255m: [0m[37;3mBasic UDP flood.                                        [37;1m(VIP: [38;2;255;0;0mFALSE[37;1m)
+   [38;2;108;61;255m• [37;1mUDP-VIP[38;2;108;61;255m: [0m[37;3mUDP flood for high gbps and bypass                  [37;1m(VIP: [38;2;0;255;0mTRUE[37;1m)
+   [38;2;108;61;255m• [37;1mUDP-BYPASS[38;2;108;61;255m: [0m[37;3mCustom UDP payload for bypass & High gbps.       [37;1m(VIP: [38;2;0;255;0mTRUE[37;1m)
+   [38;2;108;61;255m• [37;1mDISCORD[38;2;108;61;255m: [0m[37;3mDiscord bypass voice channel flood.                 [37;1m(VIP: [38;2;0;255;0mTRUE[37;1m)
+   [38;2;108;61;255m• [37;1mGAME[38;2;108;61;255m: [0m[37;3mBypassing game servers flood.                          [37;1m(VIP: [38;2;0;255;0mTRUE[37;1m)
+   [38;2;108;61;255m• [37;1mTCP-BYPASS[38;2;108;61;255m: [0m[37;3mTCP handshake made for bypassing.                [37;1m(VIP: [38;2;0;255;0mTRUE[37;1m)
+   [38;2;108;61;255m• [37;1mHANDSHAKE[38;2;108;61;255m: [0m[37;3mTCP Handshake flood.                              [37;1m(VIP: [38;2;0;255;0mTRUE[37;1m)
+   
+ [38;2;108;61;255mLayer 7[0m
+   [38;2;108;61;255m• [37;1mTLS[38;2;108;61;255m: [0m[37;3mTLS flood for high request-per-second.                  [37;1m(VIP: [38;2;255;0;0mFALSE[37;1m)
+   [38;2;108;61;255m• [37;1mHTTPS[38;2;108;61;255m: [0m[37;3mHTTP/2 flood made for bypassing.                      [37;1m(VIP: [38;2;255;0;0mFALSE[37;1m)
+   [38;2;108;61;255m• [37;1mHTTP-DDOS[38;2;108;61;255m: [0m[37;3mPowerful flood optimized for High RPS             [37;1m(VIP: [38;2;0;255;0mTRUE[37;1m)
+   [38;2;108;61;255m• [37;1mCLOUDFLARE[38;2;108;61;255m: [0m[37;3mPowerful bypass for CloudFlare.                  [37;1m(VIP: [38;2;0;255;0mTRUE[37;1m)
+   [38;2;108;61;255m• [37;1mBROWSER[38;2;108;61;255m: [0m[37;3mPowerful Captchas flood.                            [37;1m(VIP: [38;2;0;255;0mTRUE[37;1m)
+ 

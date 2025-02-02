@@ -1,0 +1,16 @@
+{
+  "cnc": {
+    "license": "xdxd123",
+    "port": "999",
+    "api_port": "8080",
+    "attacks_enabled": true,
+    "global_cooldown": 0,
+    "global_slots": 3
+  },
+  "mysql": {
+    "db_user": "root",
+    "db_pass": "password",
+    "db_host": "localhost",
+    "db_name": "xdlol"
+  }
+}

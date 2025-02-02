@@ -1,0 +1,14 @@
+<<$clear>>
+
+ [97m <gradient name="purple">List of Commands</gradient> [97m
+
+  [38;2;128;128;128m│ [38;2;108;61;255mhelp[97m     - displays all commands list
+  [38;2;128;128;128m│ [38;2;108;61;255mmethods[97m  - displays your methods
+  [38;2;128;128;128m│ [38;2;108;61;255mclear[97m    - clears screen
+  [38;2;128;128;128m│ [38;2;108;61;255mplan[97m     - displays account details
+  [38;2;128;128;128m│ [38;2;108;61;255musers[97m    - users management
+  [38;2;128;128;128m│ [38;2;108;61;255mcredits[97m  - displays credits of cnc
+  [38;2;128;128;128m│ [38;2;108;61;255mlogs[97m     - logs management
+  [38;2;128;128;128m│ [38;2;108;61;255mongoing[97m  - display ongoing attacks
+  [38;2;128;128;128m│ [38;2;108;61;255mipinfo[97m  - ip lookup
+  [38;2;128;128;128m│ [38;2;108;61;255mcfx[97m     - fivem server to ip

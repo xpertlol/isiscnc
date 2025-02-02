@@ -1,0 +1,5 @@
+<<$clear>>
+ [38;2;108;61;255m<gradient name="purple">XpertCNC</gradient>
+ [38;2;128;128;128m│ [38;2;108;61;255mUsername:[97m @<<$user.Username>>
+ [38;2;128;128;128m│ [38;2;108;61;255mAdmin:[97m <<$user.Admin>>
+ [38;2;128;128;128m│ [38;2;108;61;255mClient:[97m <<$user.SSH_Client>>

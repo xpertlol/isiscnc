@@ -1,0 +1,17 @@
+ [97m <gradient name="purple">Account Details</gradient> [97m
+
+  [38;2;128;128;128m│ [38;2;108;61;255mAdmin Status[97m:           <<$user.Admin>>
+  [38;2;128;128;128m│ [38;2;108;61;255mVIP Status[97m:             <<$user.Vip>>
+  [38;2;128;128;128m│ [38;2;108;61;255mPrivate Status[97m:         <<$user.Private>>
+
+  [38;2;128;128;128m│ [38;2;108;61;255mExpiry Date[97m:            <<$user.Expiry>>
+  [38;2;128;128;128m│ [38;2;108;61;255mConcurrents Limit[97m:      <<$user.Concurrents>>
+  [38;2;128;128;128m│ [38;2;108;61;255mCooldown Time (sec)[97m:    <<$user.Cooldown>>
+  [38;2;128;128;128m│ [38;2;108;61;255mMax Attack Duration[97m:    <<$user.Maxtime>> seconds
+  [38;2;128;128;128m│ [38;2;108;61;255mUser total attacks[97m:     <<$user.Total_attacks>>
+  [38;2;128;128;128m│ [38;2;108;61;255mCreated by[97m:             <<$user.Created_by>>
+
+  [38;2;128;128;128m│ [38;2;108;61;255mAPI Access[97m:             <<$user.Api_access>>
+  [38;2;128;128;128m│ [38;2;108;61;255mPower Saving Bypass[97m:    <<$user.Power_saving_bypass>>
+  [38;2;128;128;128m│ [38;2;108;61;255mSpam Bypass[97m:            <<$user.Spam_bypass>>
+  [38;2;128;128;128m│ [38;2;108;61;255mBlacklist Bypass[97m:       <<$user.Blacklist_bypass>>
